@@ -526,7 +526,7 @@ questions = [
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": 10,
+            "govt": 5,
             "scty": 0
         }
     },
@@ -545,6 +545,15 @@ questions = [
             "econ": 0,
             "dipl": 0,
             "govt": 10,
+            "scty": 0
+        }
+    },
+    {
+        "question": "Ненавистнические высказывания - тоже признак свободы слова.",
+        "effect": {
+            "econ": 0,
+            "dipl": 0,
+            "govt": 5,
             "scty": 0
         }
     },
