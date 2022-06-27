@@ -76,7 +76,7 @@ questions = [
         "effect": {
             "econ": 5,
             "dipl": 0,
-            "govt": 0,
+            "govt": -10,
             "scty": 0
         }
     },
@@ -868,7 +868,7 @@ questions = [
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": 0,
+            "govt": 5,
             "scty": 10
         }
     },
@@ -882,11 +882,11 @@ questions = [
         }
     },
     {
-        "question": "Ни одна раса, нация и культура не превосходит другую.",
+        "question": "Ни одна раса, нация и культура не превосходят другую.",
         "effect": {
             "econ": 0,
             "dipl": 10,
-            "govt": -5,
+            "govt": 5,
             "scty": 10
         }
     },
