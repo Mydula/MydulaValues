@@ -256,7 +256,7 @@ questions = [
         "effect": {
             "econ": 5,
             "dipl": 0,
-            "govt": 5,
+            "govt": 0,
             "scty": 0
         }
     },
