@@ -292,7 +292,7 @@ questions = [
         "effect": {
             "econ": 0,
             "dipl": 10,
-            "govt": 0,
+            "govt": 5,
             "scty": 5
         }
     },
@@ -472,7 +472,7 @@ questions = [
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": 0,
+            "govt": 10,
             "scty": 10
         }
     },
@@ -850,7 +850,7 @@ questions = [
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": 5,
+            "govt": 10,
             "scty": 10
         }
     },
@@ -859,7 +859,7 @@ questions = [
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": 5,
+            "govt": 10,
             "scty": 10
         }
     },
