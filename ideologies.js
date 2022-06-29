@@ -146,8 +146,8 @@ ideologies = [
     {
         "name": "Революционный социализм",
         "stats": {
-            "econ": 80,
-            "dipl": 30,
+            "econ": 90,
+            "dipl": 40,
             "govt": 50,
             "scty": 70
         }
