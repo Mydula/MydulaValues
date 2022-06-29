@@ -193,7 +193,7 @@ ideologies = [
         "stats": {
             "econ": 70,
             "dipl": 20,
-            "govt": 20,
+            "govt": 15,
             "scty": 20
         }
     },    
@@ -394,15 +394,6 @@ ideologies = [
             "govt": 45,
             "scty": 20
         }
-    },
-    {
-        "name": "Альтернативные правые",
-        "stats": {
-            "econ": 40,
-            "dipl": 20,
-            "govt": 20,
-            "scty": 20
-        }
     },    
     {
         "name": "Либеральный консерватизм",
@@ -497,9 +488,9 @@ ideologies = [
     {
         "name": "Клерикальный фашизм",
         "stats": {
-            "econ": 60,
+            "econ": 55,
             "dipl": 10,
-            "govt": 5,
+            "govt": 10,
             "scty": 10
         }
     },
@@ -508,7 +499,7 @@ ideologies = [
         "stats": {
             "econ": 50,
             "dipl": 10,
-            "govt": 5,
+            "govt": 10,
             "scty": 5
         }
     },
@@ -518,7 +509,7 @@ ideologies = [
             "econ": 20,
             "dipl": 20,
             "govt": 10,
-            "scty": 20
+            "scty": 40
         }
     },
     {
