@@ -495,6 +495,15 @@ ideologies = [
         }
     },
     {
+        "name": "Футуризм",
+        "stats": {
+            "econ": 65,
+            "dipl": 20,
+            "govt": 15,
+            "scty": 85
+        }
+    },
+    {
         "name": "Национал-капитализм",
         "stats": {
             "econ": 20,
@@ -601,15 +610,6 @@ ideologies = [
             "govt": 35,
             "scty": 20
         }
-    },    
-    {
-        "name": "Фундаментализм",
-        "stats": {
-            "econ": 20,
-            "dipl": 30,
-            "govt": 30,
-            "scty": 5
-        }
     },
     {
         "name": "Правое либертарианство",
@@ -625,7 +625,7 @@ ideologies = [
         "stats": {
             "econ": 30,
             "dipl": 50,
-            "govt": 70,
+            "govt": 80,
             "scty": 30
         }
     },
@@ -643,7 +643,7 @@ ideologies = [
         "stats": {
             "econ": 20,
             "dipl": 30,
-            "govt": 70,
+            "govt": 75,
             "scty": 30
         }
     },
@@ -652,8 +652,17 @@ ideologies = [
         "stats": {
             "econ": 30,
             "dipl": 20,
-            "govt": 75,
+            "govt": 80,
             "scty": 50
+        }
+    },
+    {
+        "name": "Реакционное либертарианство",
+        "stats": {
+            "econ": 10,
+            "dipl": 30,
+            "govt": 75,
+            "scty": 10
         }
     },
     {
