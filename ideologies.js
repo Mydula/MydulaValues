@@ -331,15 +331,6 @@ ideologies = [
             "govt": 100,
             "scty": 100
         }
-    },    
-    {
-        "name": "Технократия",
-        "stats": {
-            "econ": 60,
-            "dipl": 60,
-            "govt": 20,
-            "scty": 70
-        }
     },
     {
         "name": "Центризм",
