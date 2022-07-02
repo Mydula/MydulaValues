@@ -497,7 +497,7 @@ ideologies = [
     {
         "name": "Футуризм",
         "stats": {
-            "econ": 65,
+            "econ": 70,
             "dipl": 20,
             "govt": 15,
             "scty": 95
