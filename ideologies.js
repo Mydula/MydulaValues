@@ -138,7 +138,7 @@ ideologies = [
         "name": "Демократический социализм",
         "stats": {
             "econ": 80,
-            "dipl": 50,
+            "dipl": 60,
             "govt": 50,
             "scty": 80
         }
@@ -156,7 +156,7 @@ ideologies = [
         "name": "Либеральный социализм",
         "stats": {
             "econ": 80,
-            "dipl": 80,
+            "dipl": 60,
             "govt": 60,
             "scty": 80
         }
@@ -165,7 +165,7 @@ ideologies = [
         "name": "Либертарный социализм",
         "stats": {
             "econ": 80,
-            "dipl": 80,
+            "dipl": 60,
             "govt": 80,
             "scty": 80
         }
@@ -254,10 +254,10 @@ ideologies = [
     {
         "name": "Социал-демократия",
         "stats": {
-            "econ": 60,
-            "dipl": 70,
+            "econ": 70,
+            "dipl": 60,
             "govt": 60,
-            "scty": 80
+            "scty": 75
         }
     },
     {
