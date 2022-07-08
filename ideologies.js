@@ -254,10 +254,10 @@ ideologies = [
     {
         "name": "Социал-демократия",
         "stats": {
-            "econ": 70,
-            "dipl": 60,
-            "govt": 60,
-            "scty": 75
+            "econ": 60,
+            "dipl": 70,
+            "govt": 50,
+            "scty": 80
         }
     },
     {
