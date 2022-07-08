@@ -432,7 +432,7 @@ ideologies = [
         }
     },
     {
-        "name": "Анархо-эгоизм",
+        "name": "Эгоизм",
         "stats": {
             "econ": 40,
             "dipl": 50,
