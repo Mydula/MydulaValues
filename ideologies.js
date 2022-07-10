@@ -65,17 +65,17 @@ ideologies = [
     {
         "name": "Ленинизм",
         "stats": {
-            "econ": 100,
-            "dipl": 40,
-            "govt": 30,
-            "scty": 70
+            "econ": 90,
+            "dipl": 60,
+            "govt": 35,
+            "scty": 80
         }
     },
     {
         "name": "Марксизм-ленинизм",
         "stats": {
             "econ": 100,
-            "dipl": 40,
+            "dipl": 60,
             "govt": 20,
             "scty": 60
         }
@@ -85,8 +85,8 @@ ideologies = [
         "stats": {
             "econ": 100,
             "dipl": 20,
-            "govt": 20,
-            "scty": 40
+            "govt": 30,
+            "scty": 55
         }
     },    
     {
@@ -111,16 +111,16 @@ ideologies = [
         "name": "Государственный социализм",
         "stats": {
             "econ": 80,
-            "dipl": 30,
-            "govt": 30,
-            "scty": 70
+            "dipl": 50,
+            "govt": 20,
+            "scty": 50
         }
     },
     {
         "name": "Консервативный социализм",
         "stats": {
             "econ": 80,
-            "dipl": 50,
+            "dipl": 40,
             "govt": 30,
             "scty": 20
         }
@@ -130,7 +130,7 @@ ideologies = [
         "stats": {
             "econ": 80,
             "dipl": 50,
-            "govt": 70,
+            "govt": 60,
             "scty": 20
         }
     },
@@ -596,7 +596,7 @@ ideologies = [
     {
         "name": "Государственный капитализм",
         "stats": {
-            "econ": 45,
+            "econ": 50,
             "dipl": 50,
             "govt": 20,
             "scty": 50
