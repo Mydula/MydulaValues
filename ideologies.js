@@ -74,7 +74,7 @@ ideologies = [
     {
         "name": "Марксизм-ленинизм",
         "stats": {
-            "econ": 100,
+            "econ": 90,
             "dipl": 60,
             "govt": 20,
             "scty": 60
@@ -192,8 +192,8 @@ ideologies = [
         "name": "Национал-синдикализм",
         "stats": {
             "econ": 70,
-            "dipl": 20,
-            "govt": 15,
+            "dipl": 10,
+            "govt": 10,
             "scty": 20
         }
     },    
@@ -452,9 +452,9 @@ ideologies = [
     {
         "name": "Штрассеризм",
         "stats": {
-            "econ": 70,
-            "dipl": 10,
-            "govt": 10,
+            "econ": 65,
+            "dipl": 20,
+            "govt": 15,
             "scty": 20
         }
     },    
