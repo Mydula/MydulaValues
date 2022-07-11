@@ -111,7 +111,7 @@ ideologies = [
         "name": "Государственный социализм",
         "stats": {
             "econ": 80,
-            "dipl": 40,
+            "dipl": 50,
             "govt": 20,
             "scty": 40
         }
