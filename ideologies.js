@@ -713,10 +713,10 @@ ideologies = [
     {
         "name": "Традиционализм",
         "stats": {
-            "econ": 20,
-            "dipl": 10,
+            "econ": 30,
+            "dipl": 30,
             "govt": 10,
-            "scty": 5
+            "scty": 10
         }
     },
     {
