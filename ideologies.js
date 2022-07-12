@@ -381,7 +381,7 @@ ideologies = [
         "name": "Национал-демократия",
         "stats": {
             "econ": 40,
-            "dipl": 20,
+            "dipl": 15,
             "govt": 50,
             "scty": 20
         }
@@ -396,21 +396,21 @@ ideologies = [
         }
     },
     {
-        "name": "Реакционизм",
+        "name": "Реакционер",
         "stats": {
-            "econ": 40,
+            "econ": 30,
             "dipl": 40,
-            "govt": 40,
-            "scty": 10
+            "govt": 30,
+            "scty": 0
         }
     },
     {
-        "name": "Неореакционизм",
+        "name": "Неореакционер (тёмное просвещение)",
         "stats": {
-            "econ": 0,
+            "econ": 15,
             "dipl": 20,
             "govt": 20,
-            "scty": 0
+            "scty": 5
         }
     },   
     {
