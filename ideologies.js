@@ -569,7 +569,7 @@ ideologies = [
     {
         "name": "Консервативный либерализм",
         "stats": {
-            "econ": 30,
+            "econ": 25,
             "dipl": 40,
             "govt": 60,
             "scty": 30
@@ -590,7 +590,7 @@ ideologies = [
             "econ": 20,
             "dipl": 40,
             "govt": 20,
-            "scty": 40
+            "scty": 50
         }
     },
     {
@@ -605,16 +605,16 @@ ideologies = [
     {
         "name": "Неоконсерватизм",
         "stats": {
-            "econ": 20,
-            "dipl": 30,
+            "econ": 25,
+            "dipl": 35,
             "govt": 40,
-            "scty": 40
+            "scty": 35
         }
     },
     {
         "name": "Палеоконсерватизм",
         "stats": {
-            "econ": 20,
+            "econ": 25,
             "dipl": 20,
             "govt": 30,
             "scty": 20
