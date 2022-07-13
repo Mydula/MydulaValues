@@ -544,7 +544,7 @@ ideologies = [
         "stats": {
             "econ": 30,
             "dipl": 40,
-            "govt": 50,
+            "govt": 55,
             "scty": 60
         }
     },
@@ -553,7 +553,7 @@ ideologies = [
         "stats": {
             "econ": 40,
             "dipl": 50,
-            "govt": 50,
+            "govt": 55,
             "scty": 80
         }
     },    
@@ -606,8 +606,8 @@ ideologies = [
         "name": "Неоконсерватизм",
         "stats": {
             "econ": 25,
-            "dipl": 30,
-            "govt": 40,
+            "dipl": 35,
+            "govt": 45,
             "scty": 35
         }
     },
