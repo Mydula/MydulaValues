@@ -448,15 +448,6 @@ ideologies = [
             "govt": 0,
             "scty": 10
         }
-    },
-    {
-        "name": "Штрассеризм",
-        "stats": {
-            "econ": 65,
-            "dipl": 20,
-            "govt": 15,
-            "scty": 20
-        }
     },    
     {
         "name": "Автократия",
