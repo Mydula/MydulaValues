@@ -201,9 +201,9 @@ ideologies = [
         "name": "Социалистический национализм",
         "stats": {
             "econ": 80,
-            "dipl": 10,
+            "dipl": 20,
             "govt": 10,
-            "scty": 30
+            "scty": 40
         }
     },
     {
