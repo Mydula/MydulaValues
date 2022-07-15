@@ -472,7 +472,7 @@ ideologies = [
         "stats": {
             "econ": 60,
             "dipl": 10,
-            "govt": 5,
+            "govt": 0,
             "scty": 20
         }
     },
@@ -481,14 +481,14 @@ ideologies = [
         "stats": {
             "econ": 50,
             "dipl": 10,
-            "govt": 5,
+            "govt": 0,
             "scty": 0
         }
     },
     {
         "name": "Футуризм",
         "stats": {
-            "econ": 65,
+            "econ": 60,
             "dipl": 10,
             "govt": 15,
             "scty": 95
