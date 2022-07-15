@@ -534,9 +534,9 @@ ideologies = [
         "name": "Национал-капитализм",
         "stats": {
             "econ": 20,
-            "dipl": 20,
+            "dipl": 5,
             "govt": 5,
-            "scty": 40
+            "scty": 5
         }
     },
     {
