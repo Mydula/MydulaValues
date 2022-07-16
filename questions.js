@@ -158,7 +158,7 @@ questions = [
             "econ": -10,
             "dipl": 0,
             "govt": 0,
-            "scty": -5
+            "scty": 0
         }
     },
     {
@@ -266,7 +266,7 @@ questions = [
             "econ": 2,
             "dipl": -10,
             "govt": 0,
-            "scty": -5
+            "scty": 0
         }
     },
     {
@@ -274,7 +274,7 @@ questions = [
         "effect": {
             "econ": 0,
             "dipl": -10,
-            "govt": -5,
+            "govt": 0,
             "scty": 0
         }
     },
@@ -292,8 +292,8 @@ questions = [
         "effect": {
             "econ": 0,
             "dipl": 10,
-            "govt": 5,
-            "scty": 5
+            "govt": 0,
+            "scty": 0
         }
     },
     {
@@ -459,7 +459,7 @@ questions = [
         }
     },
     {
-        "question": "Свобода слова - право всех людей.",
+        "question": "Свобода слова в отношении закона - это право человека.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -486,7 +486,7 @@ questions = [
         }
     },
     {
-        "question": "Ненавистнические высказывания - тоже признак свободы слова.",
+        "question": "Ненавистнические высказывания - неотъемлемая часть свободы слова, которая не должна ограничиваться государством.",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -563,7 +563,7 @@ questions = [
             "econ": 0,
             "dipl": 0,
             "govt": -10,
-            "scty": 0
+            "scty": -2
         }
     },
     {
@@ -684,11 +684,11 @@ questions = [
         }
     },
     {
-        "question": "Разоблачители должны преследоваться по закону.",
+        "question": "Право на мирный протест никогда не должно ущемляться.",
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": -10,
+            "govt": 10,
             "scty": 0
         }
     },
@@ -841,7 +841,7 @@ questions = [
         "effect": {
             "econ": 0,
             "dipl": 0,
-            "govt": 10,
+            "govt": 0,
             "scty": 2
         }
     },
@@ -886,7 +886,7 @@ questions = [
         "effect": {
             "econ": 0,
             "dipl": 10,
-            "govt": 5,
+            "govt": 0,
             "scty": 10
         }
     },
@@ -1031,7 +1031,7 @@ questions = [
             "econ": 0,
             "dipl": 10,
             "govt": 0,
-            "scty": 2
+            "scty": 5
         }
     },
     {
@@ -1040,7 +1040,7 @@ questions = [
             "econ": 0,
             "dipl": 10,
             "govt": 0,
-            "scty": 2
+            "scty": 0
         }
     },
     {
@@ -1057,7 +1057,7 @@ questions = [
         "effect": {
             "econ": 10,
             "dipl": 10,
-            "govt": 10,
+            "govt": 0,
             "scty": 10
         }
     },
@@ -1065,7 +1065,7 @@ questions = [
         "question": "Каждый заслуживает того, чтобы его нужды были обеспечены.",
         "effect": {
             "econ": 10,
-            "dipl": 10,
+            "dipl": 0,
             "govt": 0,
             "scty": 10
         }
