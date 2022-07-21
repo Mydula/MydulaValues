@@ -27,7 +27,7 @@ ideologies = [
         }
     },
     {
-        "name": "Марксизм",
+        "name": "Марксизм/Коммунизм",
         "stats": {
             "econ": 100,
             "dipl": 90,
@@ -75,7 +75,7 @@ ideologies = [
         "name": "Ленинизм",
         "stats": {
             "econ": 90,
-            "dipl": 60,
+            "dipl": 80,
             "govt": 30,
             "scty": 80
         }
@@ -97,7 +97,7 @@ ideologies = [
             "govt": 30,
             "scty": 50
         }
-    },    
+    },
     {
         "name": "Религиозный коммунизм",
         "stats": {
@@ -112,17 +112,17 @@ ideologies = [
         "stats": {
             "econ": 80,
             "dipl": 70,
-            "govt": 70,
-            "scty": 90
+            "govt": 60,
+            "scty": 70
         }
     },    
     {
         "name": "Государственный социализм",
         "stats": {
-            "econ": 80,
+            "econ": 78,
             "dipl": 50,
             "govt": 25,
-            "scty": 50
+            "scty": 40
         }
     },
     {
@@ -139,7 +139,7 @@ ideologies = [
         "stats": {
             "econ": 80,
             "dipl": 50,
-            "govt": 60,
+            "govt": 50,
             "scty": 20
         }
     },
@@ -153,12 +153,12 @@ ideologies = [
         }
     },
     {
-        "name": "Революционный социализм",
+        "name": "Социализм",
         "stats": {
-            "econ": 90,
-            "dipl": 40,
+            "econ": 80,
+            "dipl": 50,
             "govt": 50,
-            "scty": 70
+            "scty": 50
         }
     },
     {
@@ -183,7 +183,7 @@ ideologies = [
         "name": "Национал-большевизм",
         "stats": {
             "econ": 77,
-            "dipl": 10,
+            "dipl": 5,
             "govt": 5,
             "scty": 10
         }
@@ -192,7 +192,7 @@ ideologies = [
         "name": "Анархо-синдикализм",
         "stats": {
             "econ": 70,
-            "dipl": 50,
+            "dipl": 60,
             "govt": 100,
             "scty": 80
         }
@@ -201,7 +201,7 @@ ideologies = [
         "name": "Национал-синдикализм",
         "stats": {
             "econ": 70,
-            "dipl": 5,
+            "dipl": 0,
             "govt": 5,
             "scty": 20
         }
@@ -221,7 +221,7 @@ ideologies = [
             "econ": 70,
             "dipl": 60,
             "govt": 50,
-            "scty": 70
+            "scty": 80
         }
     },
     {
@@ -230,7 +230,7 @@ ideologies = [
             "econ": 70,
             "dipl": 10,
             "govt": 40,
-            "scty": 40
+            "scty": 50
         }
     },
     {
