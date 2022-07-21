@@ -5,32 +5,32 @@ ideologies = [
             "econ": 100,
             "dipl": 50,
             "govt": 100,
-            "scty": 90
+            "scty": 80
         }
     },
     {
         "name": "Либертарный марксизм",
         "stats": {
             "econ": 100,
-            "dipl": 70,
+            "dipl": 90,
             "govt": 80,
-            "scty": 80
+            "scty": 70
         }
     },
     {
         "name": "Троцкизм",
         "stats": {
             "econ": 100,
-            "dipl": 100,
+            "dipl": 90,
             "govt": 40,
-            "scty": 80
+            "scty": 70
         }
     },
     {
         "name": "Марксизм",
         "stats": {
             "econ": 100,
-            "dipl": 100,
+            "dipl": 90,
             "govt": 50,
             "scty": 80
         }
@@ -38,9 +38,9 @@ ideologies = [
     {
         "name": "Бернштейнианство",
         "stats": {
-            "econ": 95,
+            "econ": 90,
             "dipl": 70,
-            "govt": 50,
+            "govt": 55,
             "scty": 80
         }
     },
@@ -48,9 +48,9 @@ ideologies = [
         "name": "Неомарксизм",
         "stats": {
             "econ": 100,
-            "dipl": 100,
+            "dipl": 90,
             "govt": 60,
-            "scty": 100
+            "scty": 90
         }
     },
     {
@@ -383,7 +383,7 @@ ideologies = [
             "econ": 30,
             "dipl": 20,
             "govt": 60,
-            "scty": 60
+            "scty": 40
         }
     },
     {
