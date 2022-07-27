@@ -238,17 +238,17 @@ ideologies = [
         "stats": {
             "econ": 60,
             "dipl": 40,
-            "govt": 30,
+            "govt": 40,
             "scty": 20
         }
     },
     {
         "name": "Дистрибутизм",
         "stats": {
-            "econ": 55,
+            "econ": 60,
             "dipl": 50,
-            "govt": 40,
-            "scty": 20
+            "govt": 45,
+            "scty": 10
         }
     },
     {
@@ -264,7 +264,7 @@ ideologies = [
         "name": "Религиозная демократия",
         "stats": {
             "econ": 60,
-            "dipl": 50,
+            "dipl": 60,
             "govt": 50,
             "scty": 30
         }
