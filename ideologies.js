@@ -210,7 +210,7 @@ ideologies = [
         "name": "Социалистический национализм",
         "stats": {
             "econ": 80,
-            "dipl": 20,
+            "dipl": 10,
             "govt": 10,
             "scty": 40
         }
@@ -381,15 +381,15 @@ ideologies = [
         "name": "Либеральная демократия",
         "stats": {
             "econ": 45,
-            "dipl": 50,
+            "dipl": 60,
             "govt": 60,
-            "scty": 60
+            "scty": 50
         }
     },
     {
         "name": "Национал-либерализм",
         "stats": {
-            "econ": 30,
+            "econ": 35,
             "dipl": 10,
             "govt": 60,
             "scty": 40
