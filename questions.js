@@ -4,7 +4,7 @@ questions = [
         "effect": {
             "econ": 10,
             "dipl": 0,
-            "govt": -5,
+            "govt": 0,
             "scty": 0
         }
     },
@@ -252,11 +252,11 @@ questions = [
         }
     },
     {
-        "question": "Коррупция - яд для экономики.",
+        "question": "Кумовство и коррупция - яд для экономики.",
         "effect": {
             "econ": 5,
             "dipl": 0,
-            "govt": 0,
+            "govt": 10,
             "scty": 0
         }
     },
@@ -283,7 +283,7 @@ questions = [
         "effect": {
             "econ": 0,
             "dipl": -10,
-            "govt": 0,
+            "govt": -10,
             "scty": 0
         }
     },
@@ -427,7 +427,7 @@ questions = [
         "effect": {
             "econ": 0,
             "dipl": -10,
-            "govt": 0,
+            "govt": -2,
             "scty": 0
         }
     },
