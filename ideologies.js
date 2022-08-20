@@ -182,10 +182,10 @@ ideologies = [
     {
         "name": "Национал-большевизм",
         "stats": {
-            "econ": 77,
-            "dipl": 5,
+            "econ": 80,
+            "dipl": 0,
             "govt": 5,
-            "scty": 10
+            "scty": 20
         }
     },    
     {
@@ -203,7 +203,7 @@ ideologies = [
             "econ": 70,
             "dipl": 0,
             "govt": 5,
-            "scty": 20
+            "scty": 5
         }
     },
     {
