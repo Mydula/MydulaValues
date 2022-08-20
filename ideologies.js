@@ -207,15 +207,6 @@ ideologies = [
         }
     },
     {
-        "name": "Социалистический национализм",
-        "stats": {
-            "econ": 80,
-            "dipl": 10,
-            "govt": 10,
-            "scty": 40
-        }
-    },
-    {
         "name": "Левый популизм",
         "stats": {
             "econ": 70,
@@ -227,9 +218,9 @@ ideologies = [
     {
         "name": "Левый национализм",
         "stats": {
-            "econ": 70,
+            "econ": 80,
             "dipl": 10,
-            "govt": 40,
+            "govt": 30,
             "scty": 50
         }
     },
@@ -293,7 +284,7 @@ ideologies = [
             "econ": 60,
             "dipl": 0,
             "govt": 30,
-            "scty": 30
+            "scty": 20
         }
     },
     {
@@ -378,7 +369,7 @@ ideologies = [
         }
     },
     {
-        "name": "Либеральная демократия",
+        "name": "Либерализм",
         "stats": {
             "econ": 45,
             "dipl": 60,
