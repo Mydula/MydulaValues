@@ -497,7 +497,7 @@ ideologies = [
     {
         "name": "Фашизм",
         "stats": {
-            "econ": 60,
+            "econ": 55,
             "dipl": 0,
             "govt": 0,
             "scty": 20
