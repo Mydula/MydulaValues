@@ -380,10 +380,10 @@ ideologies = [
     {
         "name": "Национал-либерализм",
         "stats": {
-            "econ": 35,
+            "econ": 30,
             "dipl": 10,
             "govt": 60,
-            "scty": 40
+            "scty": 45
         }
     },
     {
@@ -417,7 +417,7 @@ ideologies = [
         "name": "Национал-демократия",
         "stats": {
             "econ": 35,
-            "dipl": 5,
+            "dipl": 0,
             "govt": 50,
             "scty": 20
         }
@@ -561,17 +561,17 @@ ideologies = [
         "name": "Неолиберализм",
         "stats": {
             "econ": 30,
-            "dipl": 50,
-            "govt": 55,
+            "dipl": 45,
+            "govt": 50,
             "scty": 55
         }
     },
     {
         "name": "Третий путь (социал-неолиберализм)",
         "stats": {
-            "econ": 40,
-            "dipl": 55,
-            "govt": 55,
+            "econ": 45,
+            "dipl": 50,
+            "govt": 50,
             "scty": 80
         }
     },
@@ -588,7 +588,7 @@ ideologies = [
         "name": "Консервативный либерализм",
         "stats": {
             "econ": 20,
-            "dipl": 40,
+            "dipl": 50,
             "govt": 60,
             "scty": 30
         }
