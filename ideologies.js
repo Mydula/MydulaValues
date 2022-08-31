@@ -380,10 +380,10 @@ ideologies = [
     {
         "name": "Национал-либерализм",
         "stats": {
-            "econ": 30,
+            "econ": 20,
             "dipl": 10,
             "govt": 60,
-            "scty": 45
+            "scty": 50
         }
     },
     {
@@ -434,9 +434,9 @@ ideologies = [
     {
         "name": "Либеральный консерватизм",
         "stats": {
-            "econ": 30,
+            "econ": 20,
             "dipl": 60,
-            "govt": 50,
+            "govt": 60,
             "scty": 40
         }
     },
@@ -569,9 +569,9 @@ ideologies = [
     {
         "name": "Неолиберализм",
         "stats": {
-            "econ": 25,
+            "econ": 30,
             "dipl": 40,
-            "govt": 50,
+            "govt": 55,
             "scty": 60
         }
     },
@@ -580,14 +580,14 @@ ideologies = [
         "stats": {
             "econ": 45,
             "dipl": 50,
-            "govt": 50,
+            "govt": 55,
             "scty": 80
         }
     },
     {
         "name": "Классический либерализм",
         "stats": {
-            "econ": 30,
+            "econ": 20,
             "dipl": 60,
             "govt": 60,
             "scty": 60
@@ -632,16 +632,16 @@ ideologies = [
     {
         "name": "Либертарианский консерватизм",
         "stats": {
-            "econ": 30,
-            "dipl": 40,
+            "econ": 20,
+            "dipl": 50,
             "govt": 80,
-            "scty": 30
+            "scty": 20
         }
     },
     {
         "name": "Сострадательное либертарианство",
         "stats": {
-            "econ": 30,
+            "econ": 20,
             "dipl": 60,
             "govt": 80,
             "scty": 80
@@ -660,7 +660,7 @@ ideologies = [
         "name": "Национал-либертарианство",
         "stats": {
             "econ": 20,
-            "dipl": 5,
+            "dipl": 0,
             "govt": 80,
             "scty": 20
         }
