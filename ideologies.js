@@ -171,6 +171,15 @@ ideologies = [
         }
     },
     {
+        "name": "Социализм XXI века",
+        "stats": {
+            "econ": 90,
+            "dipl": 10,
+            "govt": 55,
+            "scty": 50
+        }
+    },
+    {
         "name": "Национал-большевизм",
         "stats": {
             "econ": 80,
