@@ -178,11 +178,20 @@ ideologies = [
             "govt": 0,
             "scty": 20
         }
-    },    
+    },
+    {
+        "name": "Синдикализм",
+        "stats": {
+            "econ": 80,
+            "dipl": 50,
+            "govt": 60,
+            "scty": 35
+        }
+    },
     {
         "name": "Анархо-синдикализм",
         "stats": {
-            "econ": 70,
+            "econ": 80,
             "dipl": 60,
             "govt": 100,
             "scty": 80
