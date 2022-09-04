@@ -405,12 +405,21 @@ ideologies = [
         }
     },
     {
+        "name": "Анархо-примитивизм",
+        "stats": {
+            "econ": 50,
+            "dipl": 50,
+            "govt": 100,
+            "scty": 0
+        }
+    },
+    {
         "name": "Религиозный анархизм",
         "stats": {
             "econ": 50,
             "dipl": 50,
             "govt": 100,
-            "scty": 20
+            "scty": 25
         }
     },
     {
@@ -453,8 +462,8 @@ ideologies = [
         "name": "Политическая реакция",
         "stats": {
             "econ": 40,
-            "dipl": 35,
-            "govt": 35,
+            "dipl": 30,
+            "govt": 30,
             "scty": 0
         }
     },
@@ -462,9 +471,9 @@ ideologies = [
         "name": "Неореакция (тёмное просвещение)",
         "stats": {
             "econ": 0,
-            "dipl": 20,
+            "dipl": 10,
             "govt": 20,
-            "scty": 5
+            "scty": 0
         }
     },   
     {
