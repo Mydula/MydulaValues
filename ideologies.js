@@ -216,15 +216,6 @@ ideologies = [
         }
     },
     {
-        "name": "Левый популизм",
-        "stats": {
-            "econ": 70,
-            "dipl": 60,
-            "govt": 50,
-            "scty": 80
-        }
-    },
-    {
         "name": "Левый национализм",
         "stats": {
             "econ": 80,
@@ -420,15 +411,6 @@ ideologies = [
             "dipl": 50,
             "govt": 100,
             "scty": 25
-        }
-    },
-    {
-        "name": "Правый популизм",
-        "stats": {
-            "econ": 40,
-            "dipl": 10,
-            "govt": 40,
-            "scty": 20
         }
     },
     {
