@@ -536,14 +536,14 @@ ideologies = [
             "econ": 40,
             "dipl": 40,
             "govt": 40,
-            "scty": 30
+            "scty": 20
         }
     },
     {
         "name": "Авторитарный консерватизм",
         "stats": {
             "econ": 40,
-            "dipl": 35,
+            "dipl": 40,
             "govt": 20,
             "scty": 20
         }
@@ -553,7 +553,7 @@ ideologies = [
         "stats": {
             "econ": 40,
             "dipl": 10,
-            "govt": 30,
+            "govt": 40,
             "scty": 20
         }
     },    
