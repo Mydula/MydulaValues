@@ -563,7 +563,7 @@ ideologies = [
             "econ": 30,
             "dipl": 40,
             "govt": 55,
-            "scty": 60
+            "scty": 55
         }
     },
     {
@@ -713,9 +713,9 @@ ideologies = [
     {
         "name": "Фискальный консерватизм",
         "stats": {
-            "econ": 10,
+            "econ": 0,
             "dipl": 50,
-            "govt": 50,
+            "govt": 40,
             "scty": 30
         }
     },
