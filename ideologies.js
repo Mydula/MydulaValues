@@ -61,15 +61,6 @@ ideologies = [
             "govt": 70,
             "scty": 100
         }
-    },    
-    {
-        "name": "Де Леонизм",
-        "stats": {
-            "econ": 100,
-            "dipl": 50,
-            "govt": 75,
-            "scty": 80
-        }
     },
     {
         "name": "Ленинизм",
