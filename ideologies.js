@@ -84,9 +84,9 @@ ideologies = [
         "name": "Марксизм-ленинизм",
         "stats": {
             "econ": 90,
-            "dipl": 50,
+            "dipl": 55,
             "govt": 20,
-            "scty": 50
+            "scty": 55
         }
     },
     {
@@ -112,8 +112,8 @@ ideologies = [
         "stats": {
             "econ": 80,
             "dipl": 50,
-            "govt": 30,
-            "scty": 40
+            "govt": 20,
+            "scty": 50
         }
     },
     {
