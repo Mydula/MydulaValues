@@ -326,10 +326,10 @@ ideologies = [
     {
         "name": "Национал-анархизм",
         "stats": {
-            "econ": 60,
-            "dipl": 10,
-            "govt": 90,
-            "scty": 20
+            "econ": 55,
+            "dipl": 0,
+            "govt": 100,
+            "scty": 0
         }
     },
     {
