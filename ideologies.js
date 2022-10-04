@@ -207,6 +207,15 @@ ideologies = [
         }
     },
     {
+        "name": "Ангсоц",
+        "stats": {
+            "econ": 80,
+            "dipl": 0,
+            "govt": -5,
+            "scty": 50
+        } 
+    },
+    {
         "name": "Патерналистский консерватизм",
         "stats": {
             "econ": 60,
@@ -335,7 +344,7 @@ ideologies = [
     {
         "name": "Анархо-нигилизм",
         "stats": {
-            "econ": 65,
+            "econ": 50,
             "dipl": 100,
             "govt": 100,
             "scty": 100
@@ -475,7 +484,16 @@ ideologies = [
             "govt": 0,
             "scty": 10
         }
-    },    
+    },
+    {
+        "name": "Штрассеризм",
+        "stats": {
+            "econ": 80,
+            "dipl": 0,
+            "govt": 20,
+            "scty": 10
+        }
+    },
     {
         "name": "Автократия",
         "stats": {
@@ -491,7 +509,16 @@ ideologies = [
             "econ": 55,
             "dipl": 0,
             "govt": 0,
-            "scty": 20
+            "scty": 30
+        }
+    },
+    {
+        "name": "Клерикальный фашизм",
+        "stats": {
+            "econ": 55,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 10
         }
     },
     {
@@ -517,8 +544,8 @@ ideologies = [
         "stats": {
             "econ": 20,
             "dipl": 0,
-            "govt": 5,
-            "scty": 5
+            "govt": 10,
+            "scty": 10
         }
     },
     {
@@ -650,7 +677,7 @@ ideologies = [
     {
         "name": "Палеолибертарианство",
         "stats": {
-            "econ": 20,
+            "econ": 10,
             "dipl": 10,
             "govt": 80,
             "scty": 10
@@ -732,7 +759,7 @@ ideologies = [
         "name": "Розовый капитализм",
         "stats": {
             "econ": 10,
-            "dipl": 70,
+            "dipl": 80,
             "govt": 60,
             "scty": 90
         }
