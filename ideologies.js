@@ -547,7 +547,16 @@ ideologies = [
             "govt": 40,
             "scty": 20
         }
-    },    
+    },
+    {
+        "name": "Палеоконсерватизм",
+        "stats": {
+            "econ": 10,
+            "dipl": 10,
+            "govt": 40,
+            "scty": 20
+        } 
+    },
     {
         "name": "Неолиберализм",
         "stats": {
@@ -615,7 +624,7 @@ ideologies = [
         "name": "Государственный либерализм",
         "stats": {
             "econ": 10,
-            "dipl": 70,
+            "dipl": 80,
             "govt": 0,
             "scty": 100
         }
