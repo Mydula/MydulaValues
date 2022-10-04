@@ -23,7 +23,7 @@ ideologies = [
             "econ": 100,
             "dipl": 90,
             "govt": 40,
-            "scty": 75
+            "scty": 80
         }
     },
     {
@@ -444,9 +444,9 @@ ideologies = [
         "name": "Социальное либертарианство",
         "stats": {
             "econ": 60,
-            "dipl": 70,
+            "dipl": 60,
             "govt": 80,
-            "scty": 70
+            "scty": 80
         }
     },
     {
