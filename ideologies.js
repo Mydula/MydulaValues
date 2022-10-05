@@ -47,9 +47,9 @@ ideologies = [
     {
         "name": "Бернштейнианство",
         "stats": {
-            "econ": 90,
-            "dipl": 70,
-            "govt": 55,
+            "econ": 100,
+            "dipl": 80,
+            "govt": 60,
             "scty": 80
         }
     },
@@ -59,7 +59,7 @@ ideologies = [
             "econ": 100,
             "dipl": 90,
             "govt": 60,
-            "scty": 90
+            "scty": 100
         }
     },
     {
