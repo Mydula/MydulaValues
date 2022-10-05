@@ -180,10 +180,19 @@ ideologies = [
         }
     },
     {
-        "name": "Анархо-синдикализм",
+        "name": "Анархо-коллективизм",
         "stats": {
             "econ": 80,
-            "dipl": 60,
+            "dipl": 40,
+            "govt": 100,
+            "scty": 70
+        }
+    },
+    {
+        "name": "Анархо-синдикализм",
+        "stats": {
+            "econ": 70,
+            "dipl": 50,
             "govt": 100,
             "scty": 80
         }
@@ -229,7 +238,7 @@ ideologies = [
         "stats": {
             "econ": 60,
             "dipl": 50,
-            "govt": 45,
+            "govt": 50,
             "scty": 10
         }
     },
@@ -300,24 +309,24 @@ ideologies = [
         "name": "Социальный анархизм",
         "stats": {
             "econ": 60,
-            "dipl": 70,
+            "dipl": 60,
             "govt": 100,
-            "scty": 70
+            "scty": 80
         }
     },    
     {
         "name": "Мютюэлизм",
         "stats": {
-            "econ": 55,
+            "econ": 60,
             "dipl": 50,
             "govt": 100,
-            "scty": 70
+            "scty": 60
         }
     },
     {
         "name": "Анархо-индивидуализм",
         "stats": {
-            "econ": 45,
+            "econ": 40,
             "dipl": 60,
             "govt": 100,
             "scty": 80
@@ -401,7 +410,7 @@ ideologies = [
             "econ": 50,
             "dipl": 50,
             "govt": 100,
-            "scty": 25
+            "scty": 30
         }
     },
     {
@@ -470,10 +479,10 @@ ideologies = [
     {
         "name": "Эгоизм",
         "stats": {
-            "econ": 40,
+            "econ": 55,
             "dipl": 50,
             "govt": 100,
-            "scty": 50
+            "scty": 40
         }
     },
     {
@@ -506,7 +515,7 @@ ideologies = [
     {
         "name": "Фашизм",
         "stats": {
-            "econ": 55,
+            "econ": 60,
             "dipl": 0,
             "govt": 0,
             "scty": 30
@@ -515,7 +524,7 @@ ideologies = [
     {
         "name": "Клерикальный фашизм",
         "stats": {
-            "econ": 55,
+            "econ": 60,
             "dipl": 0,
             "govt": 0,
             "scty": 10
@@ -574,6 +583,15 @@ ideologies = [
             "govt": 40,
             "scty": 20
         }
+    },
+    {
+        "name": "Анархо-консерватизм",
+        "stats": {
+            "econ": 40,
+            "dipl": 40,
+            "govt": 100,
+            "scty": 20
+        } 
     },
     {
         "name": "Палеоконсерватизм",
