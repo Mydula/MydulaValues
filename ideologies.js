@@ -335,7 +335,7 @@ ideologies = [
     {
         "name": "Анархо-индивидуализм",
         "stats": {
-            "econ": 45,
+            "econ": 40,
             "dipl": 60,
             "govt": 100,
             "scty": 80
