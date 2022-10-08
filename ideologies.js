@@ -434,7 +434,7 @@ ideologies = [
     {
         "name": "Национал-демократия",
         "stats": {
-            "econ": 35,
+            "econ": 30,
             "dipl": 0,
             "govt": 50,
             "scty": 20
