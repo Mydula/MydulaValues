@@ -3,7 +3,7 @@ ideologies = [
         "name": "Анархо-коммунизм",
         "stats": {
             "econ": 100,
-            "dipl": 60,
+            "dipl": 50,
             "govt": 100,
             "scty": 80
         }
@@ -106,7 +106,16 @@ ideologies = [
             "govt": 20,
             "scty": 30
         }
-    },    
+    },
+    {
+        "name": "Казарменный коммунизм",
+        "stats": {
+            "econ": 100,
+            "dipl": 80,
+            "govt": 0,
+            "scty": 80
+        }
+    },
     {
         "name": "Государственный социализм",
         "stats": {
@@ -246,9 +255,9 @@ ideologies = [
         "name": "Дистрибутизм",
         "stats": {
             "econ": 60,
-            "dipl": 50,
-            "govt": 50,
-            "scty": 10
+            "dipl": 40,
+            "govt": 45,
+            "scty": 30
         }
     },
     {
@@ -264,9 +273,9 @@ ideologies = [
         "name": "Религиозная демократия",
         "stats": {
             "econ": 60,
-            "dipl": 60,
+            "dipl": 50,
             "govt": 50,
-            "scty": 30
+            "scty": 35
         }
     },
     {
@@ -313,6 +322,15 @@ ideologies = [
             "govt": 60,
             "scty": 100
         }
+    },
+    {
+        "name": "Национал-прогрессивизм",
+        "stats": {
+            "econ": 60,
+            "dipl": 10,
+            "govt": 50,
+            "scty": 60
+        } 
     },
     {
         "name": "Социальный анархизм",
@@ -366,6 +384,15 @@ ideologies = [
             "dipl": 100,
             "govt": 100,
             "scty": 100
+        }
+    },
+    {
+        "name": "Анархо-дистрибутизм",
+        "stats": {
+            "econ": 60,
+            "dipl": 40,
+            "govt": 100,
+            "scty": 30
         }
     },
     {
@@ -423,15 +450,6 @@ ideologies = [
         }
     },
     {
-        "name": "Государственный капитализм",
-        "stats": {
-            "econ": 45,
-            "dipl": 50,
-            "govt": 20,
-            "scty": 50
-        }
-    },
-    {
         "name": "Национал-демократия",
         "stats": {
             "econ": 30,
@@ -447,6 +465,15 @@ ideologies = [
             "dipl": 60,
             "govt": 60,
             "scty": 40
+        }
+    },
+    {
+        "name": "Авторитарная демократия",
+        "stats": {
+            "econ": 45,
+            "dipl": 45,
+            "govt": 30,
+            "scty": 45
         }
     },
     {
@@ -513,10 +540,10 @@ ideologies = [
         }
     },
     {
-        "name": "Автократия",
+        "name": "Авторитаризм",
         "stats": {
             "econ": 50,
-            "dipl": 10,
+            "dipl": 50,
             "govt": 20,
             "scty": 50
         }
@@ -612,6 +639,15 @@ ideologies = [
         }
     },
     {
+        "name": "Теократия",
+        "stats": {
+            "econ": 50,
+            "dipl": 50,
+            "govt": 20,
+            "scty": 10
+        }
+    },
+    {
         "name": "Неолиберализм",
         "stats": {
             "econ": 30,
@@ -669,7 +705,7 @@ ideologies = [
         "name": "Авторитарный капитализм",
         "stats": {
             "econ": 20,
-            "dipl": 45,
+            "dipl": 50,
             "govt": 20,
             "scty": 50
         }
