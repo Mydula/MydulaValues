@@ -144,6 +144,15 @@ ideologies = [
         }
     },
     {
+        "name": "Реакционный социализм",
+        "stats": {
+            "econ": 80,
+            "dipl": 30,
+            "govt": 30,
+            "scty": 0
+        }
+    },
+    {
         "name": "Религиозный социализм",
         "stats": {
             "econ": 80,
@@ -156,9 +165,18 @@ ideologies = [
         "name": "Демократический социализм",
         "stats": {
             "econ": 80,
-            "dipl": 70,
-            "govt": 50,
-            "scty": 80
+            "dipl": 90,
+            "govt": 60,
+            "scty": 60
+        }
+    },
+    {
+        "name": "Утопический социализм",
+        "stats": {
+            "econ": 80,
+            "dipl": 90,
+            "govt": 60,
+            "scty": 40
         }
     },
     {
@@ -189,12 +207,30 @@ ideologies = [
         }
     },
     {
+        "name": "Рикардианский социализм",
+        "stats": {
+            "econ": 80,
+            "dipl": 90,
+            "govt": 60,
+            "scty": 50
+        } 
+    },
+    {
         "name": "Социализм XXI века",
         "stats": {
             "econ": 90,
             "dipl": 10,
             "govt": 55,
             "scty": 50
+        }
+    },
+    {
+        "name": "Гильдейский социализм",
+        "stats": {
+            "econ": 80,
+            "dipl": 40,
+            "govt": 80,
+            "scty": 40
         }
     },
     {
@@ -243,6 +279,24 @@ ideologies = [
         }
     },
     {
+        "name": "Левый популизм",
+        "stats": {
+            "econ": 70,
+            "dipl": 50,
+            "govt": 50,
+            "scty": 60
+        } 
+    },
+    {
+        "name": "Якобинство",
+        "stats": {
+            "econ": 60,
+            "dipl": 90,
+            "govt": 20,
+            "scty": 100
+        }
+    },
+    {
         "name": "Патерналистский консерватизм",
         "stats": {
             "econ": 60,
@@ -282,7 +336,7 @@ ideologies = [
         "name": "Социал-демократия",
         "stats": {
             "econ": 60,
-            "dipl": 90,
+            "dipl": 80,
             "govt": 60,
             "scty": 60
         }
@@ -291,7 +345,7 @@ ideologies = [
         "name": "Социальный авторитаризм",
         "stats": {
             "econ": 60,
-            "dipl": 50,
+            "dipl": 60,
             "govt": 20,
             "scty": 60
         }
@@ -502,7 +556,16 @@ ideologies = [
             "govt": 20,
             "scty": 0
         }
-    },   
+    },
+    {
+        "name": "Правый популизм",
+        "stats": {
+            "econ": 30,
+            "dipl": 10,
+            "govt": 50,
+            "scty": 20
+        }
+    },
     {
         "name": "Социальное либертарианство",
         "stats": {
@@ -669,7 +732,7 @@ ideologies = [
         "name": "Неолиберализм",
         "stats": {
             "econ": 30,
-            "dipl": 50,
+            "dipl": 70,
             "govt": 50,
             "scty": 55
         }
@@ -678,7 +741,7 @@ ideologies = [
         "name": "Третий путь (социал-неолиберализм)",
         "stats": {
             "econ": 45,
-            "dipl": 50,
+            "dipl": 70,
             "govt": 50,
             "scty": 80
         }
@@ -771,6 +834,15 @@ ideologies = [
             "dipl": 40,
             "govt": 80,
             "scty": 0
+        }
+    },
+    {
+        "name": "Неолибертарианство",
+        "stats": {
+            "econ": 10,
+            "dipl": 50,
+            "govt": 80,
+            "scty": 30
         }
     },
     {
