@@ -290,7 +290,7 @@ ideologies = [
     {
         "name": "Якобинство",
         "stats": {
-            "econ": 60,
+            "econ": 70,
             "dipl": 90,
             "govt": 20,
             "scty": 100
