@@ -540,12 +540,21 @@ ideologies = [
         }
     },
     {
+        "name": "Этатизм",
+        "stats": {
+            "econ": 50,
+            "dipl": 50,
+            "govt": 30,
+            "scty": 50
+        }
+    },
+    {
         "name": "Авторитарная демократия",
         "stats": {
             "econ": 45,
-            "dipl": 45,
-            "govt": 30,
-            "scty": 45
+            "dipl": 50,
+            "govt": 25,
+            "scty": 50
         }
     },
     {
@@ -630,10 +639,19 @@ ideologies = [
         }
     },
     {
+        "name": "Автократия",
+        "stats": {
+            "econ": 50,
+            "dipl": 50,
+            "govt": 10,
+            "scty": 50
+        }
+    },
+    {
         "name": "Стратократия",
         "stats": {
             "econ": 50,
-            "dipl": 25,
+            "dipl": 20,
             "govt": 20,
             "scty": 50
         }
@@ -798,6 +816,15 @@ ideologies = [
             "dipl": 50,
             "govt": 20,
             "scty": 50
+        }
+    },
+    {
+        "name": "Государственный капитализм",
+        "stats": {
+            "econ": 45,
+            "dipl": 45,
+            "govt": 20,
+            "scty": 60
         }
     },
     {
