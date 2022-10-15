@@ -274,7 +274,16 @@ ideologies = [
         "stats": {
             "econ": 80,
             "dipl": 10,
-            "govt": 30,
+            "govt": 50,
+            "scty": 50
+        }
+    },
+    {
+        "name": "Левый национализм",
+        "stats": {
+            "econ": 80,
+            "dipl": 10,
+            "govt": 20,
             "scty": 50
         }
     },
@@ -732,16 +741,16 @@ ideologies = [
         "name": "Неолиберализм",
         "stats": {
             "econ": 30,
-            "dipl": 70,
+            "dipl": 60,
             "govt": 50,
-            "scty": 55
+            "scty": 60
         }
     },
     {
         "name": "Третий путь (социал-неолиберализм)",
         "stats": {
             "econ": 45,
-            "dipl": 70,
+            "dipl": 60,
             "govt": 50,
             "scty": 80
         }
