@@ -103,7 +103,7 @@ ideologies = [
         "stats": {
             "econ": 100,
             "dipl": 10,
-            "govt": 30,
+            "govt": 50,
             "scty": 50
         }
     },
@@ -545,15 +545,6 @@ ideologies = [
             "econ": 50,
             "dipl": 50,
             "govt": 30,
-            "scty": 50
-        }
-    },
-    {
-        "name": "Авторитарная демократия",
-        "stats": {
-            "econ": 45,
-            "dipl": 50,
-            "govt": 25,
             "scty": 50
         }
     },
