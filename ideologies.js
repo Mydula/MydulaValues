@@ -281,7 +281,7 @@ ideologies = [
     {
         "name": "Ангсоц",
         "stats": {
-            "econ": 50,
+            "econ": 80,
             "dipl": 50,
             "govt": -30,
             "scty": 50
