@@ -27,6 +27,24 @@ ideologies = [
         }
     },
     {
+        "name": "Ситуационизм",
+        "stats": {
+            "econ": 100,
+            "dipl": 50,
+            "govt": 80,
+            "scty": 80
+        }
+    },
+    {
+        "name": "Де Леонизм",
+        "stats": {
+            "econ": 100,
+            "dipl": 90,
+            "govt": 70,
+            "scty": 80
+        }
+    },
+    {
         "name": "Троцкизм",
         "stats": {
             "econ": 100,
@@ -122,6 +140,15 @@ ideologies = [
             "econ": 100,
             "dipl": 80,
             "govt": 0,
+            "scty": 80
+        }
+    },
+    {
+        "name": "Коммунализм",
+        "stats": {
+            "econ": 100,
+            "dipl": 90,
+            "govt": 90,
             "scty": 80
         }
     },
@@ -249,6 +276,15 @@ ideologies = [
             "dipl": 40,
             "govt": 100,
             "scty": 70
+        }
+    },
+    {
+        "name": "Ангсоц",
+        "stats": {
+            "econ": 50,
+            "dipl": 50,
+            "govt": -30,
+            "scty": 50
         }
     },
     {
@@ -380,9 +416,9 @@ ideologies = [
     {
         "name": "Интегрализм",
         "stats": {
-            "econ": 60,
+            "econ": 50,
             "dipl": 10,
-            "govt": 30,
+            "govt": 20,
             "scty": 0
         }
     },
@@ -434,7 +470,7 @@ ideologies = [
     {
         "name": "Национал-анархизм",
         "stats": {
-            "econ": 55,
+            "econ": 60,
             "dipl": 0,
             "govt": 100,
             "scty": 0
@@ -456,6 +492,15 @@ ideologies = [
             "dipl": 40,
             "govt": 100,
             "scty": 30
+        }
+    },
+    {
+        "name": "Технократия",
+        "stats": {
+            "econ": 80,
+            "dipl": 50,
+            "govt": 20,
+            "scty": 80
         }
     },
     {
@@ -508,6 +553,15 @@ ideologies = [
         "stats": {
             "econ": 50,
             "dipl": 50,
+            "govt": 100,
+            "scty": 0
+        }
+    },
+    {
+        "name": "Трайбализм",
+        "stats": {
+            "econ": 50,
+            "dipl": 0,
             "govt": 100,
             "scty": 0
         }
@@ -659,7 +713,7 @@ ideologies = [
     {
         "name": "Эзотерический фашизм",
         "stats": {
-            "econ": 50,
+            "econ": 45,
             "dipl": 0,
             "govt": 0,
             "scty": 0
@@ -670,8 +724,17 @@ ideologies = [
         "stats": {
             "econ": 60,
             "dipl": 0,
-            "govt": 10,
+            "govt": 0,
             "scty": 100
+        }
+    },
+    {
+        "name": "Археофутуризм",
+        "stats": {
+            "econ": 55,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
         }
     },
     {
@@ -679,7 +742,7 @@ ideologies = [
         "stats": {
             "econ": 20,
             "dipl": 0,
-            "govt": 10,
+            "govt": 0,
             "scty": 10
         }
     },
@@ -756,6 +819,15 @@ ideologies = [
         }
     },
     {
+        "name": "Фордизм",
+        "stats": {
+            "econ": 25,
+            "dipl": 70,
+            "govt": 0,
+            "scty": 80
+        }
+    },
+    {
         "name": "Классический либерализм",
         "stats": {
             "econ": 20,
@@ -807,6 +879,15 @@ ideologies = [
             "dipl": 45,
             "govt": 20,
             "scty": 50
+        }
+    },
+    {
+        "name": "Государственный либерализм",
+        "stats": {
+            "econ": 0,
+            "dipl": 70,
+            "govt": 0,
+            "scty": 100
         }
     },
     {
