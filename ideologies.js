@@ -405,6 +405,15 @@ ideologies = [
         }
     },
     {
+        "name": "Социальный тоталитаризм",
+        "stats": {
+            "econ": 70,
+            "dipl": 50,
+            "govt": 0,
+            "scty": 50
+        }
+    },
+    {
         "name": "Социальный национализм",
         "stats": {
             "econ": 60,
@@ -420,6 +429,15 @@ ideologies = [
             "dipl": 10,
             "govt": 20,
             "scty": 0
+        }
+    },
+    {
+        "name": "Прогрессивизм",
+        "stats": {
+            "econ": 50,
+            "dipl": 50,
+            "govt": 60,
+            "scty": 90
         }
     },
     {
@@ -684,10 +702,10 @@ ideologies = [
         }
     },
     {
-        "name": "Стратократия",
+        "name": "Авторитарный национализм",
         "stats": {
             "econ": 50,
-            "dipl": 20,
+            "dipl": 10,
             "govt": 20,
             "scty": 50
         }
@@ -765,6 +783,15 @@ ideologies = [
         }
     },
     {
+        "name": "Тоталитарный консерватизм",
+        "stats": {
+            "econ": 40,
+            "dipl": 40,
+            "govt": 0,
+            "scty": 20
+        }
+    },
+    {
         "name": "Национал-консерватизм",
         "stats": {
             "econ": 40,
@@ -790,6 +817,15 @@ ideologies = [
             "govt": 40,
             "scty": 20
         }
+    },
+    {
+        "name": "Фундаментализм",
+        "stats": {
+            "econ": 30,
+            "dipl": 30,
+            "govt": 30,
+            "scty": 10
+        } 
     },
     {
         "name": "Теократия",
@@ -873,6 +909,15 @@ ideologies = [
         }
     },
     {
+        "name": "Тоталитарный капитализм",
+        "stats": {
+            "econ": 20,
+            "dipl": 50,
+            "govt": 0,
+            "scty": 50
+        }
+    },
+    {
         "name": "Государственный капитализм",
         "stats": {
             "econ": 45,
@@ -938,19 +983,19 @@ ideologies = [
     {
         "name": "Неолибертарианство",
         "stats": {
-            "econ": 10,
+            "econ": 0,
             "dipl": 50,
             "govt": 80,
-            "scty": 45
+            "scty": 20
         }
     },
     {
         "name": "Агоризм",
         "stats": {
-            "econ": 20,
+            "econ": 10,
             "dipl": 60,
-            "govt": 90,
-            "scty": 70
+            "govt": 100,
+            "scty": 80
         }
     },
     {
@@ -959,24 +1004,24 @@ ideologies = [
             "econ": 30,
             "dipl": 50,
             "govt": 100,
-            "scty": 50
+            "scty": 80
         }
     },
     {
         "name": "Объективизм",
         "stats": {
-            "econ": 10,
+            "econ": 0,
             "dipl": 50,
-            "govt": 85,
+            "govt": 90,
             "scty": 40
         }
     },
     {
         "name": "Минархизм",
         "stats": {
-            "econ": 10,
+            "econ": 0,
             "dipl": 50,
-            "govt": 75,
+            "govt": 90,
             "scty": 50
         }
     },    
@@ -1014,6 +1059,24 @@ ideologies = [
             "dipl": 80,
             "govt": 60,
             "scty": 90
+        }
+    },
+    {
+        "name": "Ультракапитализм",
+        "stats": {
+            "econ": 0,
+            "dipl": 50,
+            "govt": 50,
+            "scty": 50
+        }
+    },
+    {
+        "name": "Пропертарианство",
+        "stats": {
+            "econ": 0,
+            "dipl": 50,
+            "govt": 80,
+            "scty": 50
         }
     },
     {
