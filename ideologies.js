@@ -819,15 +819,6 @@ ideologies = [
         }
     },
     {
-        "name": "Фундаментализм",
-        "stats": {
-            "econ": 30,
-            "dipl": 30,
-            "govt": 30,
-            "scty": 10
-        } 
-    },
-    {
         "name": "Теократия",
         "stats": {
             "econ": 50,
