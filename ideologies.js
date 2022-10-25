@@ -552,9 +552,18 @@ ideologies = [
         "name": "Джорджизм",
         "stats": {
             "econ": 30,
-            "dipl": 20,
+            "dipl": 40,
             "govt": 60,
-            "scty": 45
+            "scty": 50
+        }
+    },
+    {
+        "name": "Геолибертарианство",
+        "stats": {
+            "econ": 30,
+            "dipl": 40,
+            "govt": 80,
+            "scty": 50
         }
     },
     {
