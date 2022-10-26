@@ -686,7 +686,7 @@ ideologies = [
     {
         "name": "Национал-социализм",
         "stats": {
-            "econ": 45,
+            "econ": 50,
             "dipl": 0,
             "govt": 0,
             "scty": 10
@@ -749,7 +749,7 @@ ideologies = [
     {
         "name": "Эзотерический фашизм",
         "stats": {
-            "econ": 45,
+            "econ": 50,
             "dipl": 0,
             "govt": 0,
             "scty": 0
@@ -783,12 +783,30 @@ ideologies = [
         }
     },
     {
+        "name": "Неонацизм",
+        "stats": {
+            "econ": 40,
+            "dipl": 5,
+            "govt": 0,
+            "scty": 0
+        }
+    },
+    {
         "name": "Консерватизм",
         "stats": {
             "econ": 50,
             "dipl": 40,
             "govt": 50,
             "scty": 20
+        }
+    },
+    {
+        "name": "Классический консерватизм",
+        "stats": {
+            "econ": 30,
+            "dipl": 50,
+            "govt": 30,
+            "scty": 10
         }
     },
     {
