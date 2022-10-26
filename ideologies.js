@@ -614,9 +614,9 @@ ideologies = [
     {
         "name": "Либеральный консерватизм",
         "stats": {
-            "econ": 30,
+            "econ": 20,
             "dipl": 60,
-            "govt": 55,
+            "govt": 50,
             "scty": 30
         }
     },
