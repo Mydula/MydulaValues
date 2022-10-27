@@ -108,6 +108,33 @@ ideologies = [
         }
     },
     {
+        "name": "Сталинизм",
+        "stats": {
+            "econ": 90,
+            "dipl": 30,
+            "govt": 0,
+            "scty": 70
+        }
+    },
+    {
+        "name": "Маоизм",
+        "stats": {
+            "econ": 100,
+            "dipl": 30,
+            "govt": 0,
+            "scty": 100
+        }
+    },
+    {
+        "name": "Пол Потизм",
+        "stats": {
+            "econ": 100,
+            "dipl": 0,
+            "govt": 0,
+            "scty": 0
+        }
+    },
+    {
         "name": "Марксизм-ленинизм",
         "stats": {
             "econ": 90,
