@@ -126,7 +126,7 @@ ideologies = [
         }
     },
     {
-        "name": "Пол Потизм",
+        "name": "Полпотизм",
         "stats": {
             "econ": 100,
             "dipl": 0,
