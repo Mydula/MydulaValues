@@ -165,9 +165,9 @@ ideologies = [
         "name": "Казарменный коммунизм",
         "stats": {
             "econ": 100,
-            "dipl": 80,
+            "dipl": 100,
             "govt": 0,
-            "scty": 80
+            "scty": 100
         }
     },
     {
@@ -220,7 +220,7 @@ ideologies = [
         "stats": {
             "econ": 80,
             "dipl": 90,
-            "govt": 60,
+            "govt": 55,
             "scty": 60
         }
     },
@@ -229,7 +229,7 @@ ideologies = [
         "stats": {
             "econ": 80,
             "dipl": 90,
-            "govt": 60,
+            "govt": 50,
             "scty": 40
         }
     },
@@ -283,7 +283,7 @@ ideologies = [
         "stats": {
             "econ": 90,
             "dipl": 10,
-            "govt": 55,
+            "govt": 50,
             "scty": 50
         }
     },
@@ -382,7 +382,7 @@ ideologies = [
         "stats": {
             "econ": 60,
             "dipl": 40,
-            "govt": 45,
+            "govt": 40,
             "scty": 20
         }
     },
@@ -427,7 +427,7 @@ ideologies = [
         "stats": {
             "econ": 70,
             "dipl": 80,
-            "govt": 60,
+            "govt": 55,
             "scty": 60
         }
     },
@@ -454,7 +454,7 @@ ideologies = [
         "stats": {
             "econ": 60,
             "dipl": 0,
-            "govt": 40,
+            "govt": 20,
             "scty": 20
         }
     },
@@ -785,7 +785,7 @@ ideologies = [
     {
         "name": "Футуризм",
         "stats": {
-            "econ": 60,
+            "econ": 70,
             "dipl": 0,
             "govt": 0,
             "scty": 100
