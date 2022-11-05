@@ -173,7 +173,7 @@ ideologies = [
     {
         "name": "Коммунализм",
         "stats": {
-            "econ": 105,
+            "econ": 102,
             "dipl": 90,
             "govt": 45,
             "scty": 80
