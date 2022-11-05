@@ -813,9 +813,9 @@ ideologies = [
         "name": "Неофашизм",
         "stats": {
             "econ": 55,
-            "dipl": 5,
+            "dipl": 0,
             "govt": 10,
-            "scty": 5
+            "scty": 10
         }
     },
     {
@@ -824,7 +824,7 @@ ideologies = [
             "econ": 40,
             "dipl": 5,
             "govt": 0,
-            "scty": 0
+            "scty": 5
         }
     },
     {
