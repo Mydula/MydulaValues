@@ -594,6 +594,15 @@ ideologies = [
         }
     },
     {
+        "name": "Популизм",
+        "effect": {
+            "econ": 55,
+            "dipl": 50,
+            "govt": 40,
+            "scty": 50
+        }
+    },
+    {
         "name": "Либерализм",
         "stats": {
             "econ": 40,
