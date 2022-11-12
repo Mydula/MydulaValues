@@ -819,6 +819,15 @@ ideologies = [
         }
     },
     {
+        "name": "Спартанизм",
+        "stats": {
+            "econ": 20,
+            "dipl": 0,
+            "govt": -5,
+            "scty": 0
+        }
+    },
+    {
         "name": "Неофашизм",
         "stats": {
             "econ": 55,
@@ -875,9 +884,9 @@ ideologies = [
     {
         "name": "Национал-консерватизм",
         "stats": {
-            "econ": 40,
+            "econ": 50,
             "dipl": 10,
-            "govt": 20,
+            "govt": 50,
             "scty": 10
         }
     },
