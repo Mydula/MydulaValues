@@ -21,7 +21,7 @@ ideologies = [
         "name": "Либертарный марксизм",
         "stats": {
             "econ": 100,
-            "dipl": 90,
+            "dipl": 80,
             "govt": 80,
             "scty": 80
         }
@@ -36,19 +36,19 @@ ideologies = [
         }
     },
     {
-        "name": "Де Леонизм",
+        "name": "Импоссибилизм",
         "stats": {
             "econ": 100,
-            "dipl": 90,
-            "govt": 70,
-            "scty": 80
+            "dipl": 80,
+            "govt": 80,
+            "scty": 100
         }
     },
     {
         "name": "Троцкизм",
         "stats": {
             "econ": 100,
-            "dipl": 90,
+            "dipl": 80,
             "govt": 30,
             "scty": 80
         }
@@ -57,7 +57,7 @@ ideologies = [
         "name": "Левый коммунизм",
         "stats": {
             "econ": 100,
-            "dipl": 90,
+            "dipl": 80,
             "govt": 40,
             "scty": 80
         }
@@ -66,16 +66,16 @@ ideologies = [
         "name": "Марксизм",
         "stats": {
             "econ": 100,
-            "dipl": 90,
+            "dipl": 80,
             "govt": 50,
             "scty": 80
         }
     },
     {
-        "name": "Бернштейнианство",
+        "name": "Реформистский марксизм",
         "stats": {
-            "econ": 90,
-            "dipl": 90,
+            "econ": 95,
+            "dipl": 60,
             "govt": 60,
             "scty": 80
         }
@@ -85,7 +85,7 @@ ideologies = [
         "stats": {
             "econ": 100,
             "dipl": 50,
-            "govt": 60,
+            "govt": 55,
             "scty": 80
         }
     },
@@ -93,18 +93,18 @@ ideologies = [
         "name": "Неомарксизм",
         "stats": {
             "econ": 100,
-            "dipl": 90,
+            "dipl": 80,
             "govt": 60,
-            "scty": 100
+            "scty": 90
         }
     },
     {
         "name": "Ленинизм",
         "stats": {
             "econ": 90,
-            "dipl": 90,
+            "dipl": 80,
             "govt": 20,
-            "scty": 80
+            "scty": 100
         }
     },
     {
@@ -129,8 +129,8 @@ ideologies = [
         "name": "Национал-коммунизм",
         "stats": {
             "econ": 100,
-            "dipl": 10,
-            "govt": 20,
+            "dipl": 20,
+            "govt": 30,
             "scty": 50
         }
     },
@@ -139,8 +139,8 @@ ideologies = [
         "stats": {
             "econ": 100,
             "dipl": 50,
-            "govt": 20,
-            "scty": 20
+            "govt": 10,
+            "scty": 35
         }
     },
     {
@@ -156,7 +156,7 @@ ideologies = [
         "name": "Коммунализм",
         "stats": {
             "econ": 105,
-            "dipl": 90,
+            "dipl": 80,
             "govt": 45,
             "scty": 90
         }
@@ -165,7 +165,7 @@ ideologies = [
         "name": "Коммунализм Мюррея Букчина",
         "stats": {
             "econ": 100,
-            "dipl": 90,
+            "dipl": 80,
             "govt": 90,
             "scty": 80
         }
@@ -174,7 +174,7 @@ ideologies = [
         "name": "Соулизм",
         "stats": {
             "econ": 115,
-            "dipl": 90,
+            "dipl": 80,
             "govt": 100,
             "scty": 90
         }
@@ -182,7 +182,7 @@ ideologies = [
     {
         "name": "Эзотерический социализм",
         "stats": {
-            "econ": 100,
+            "econ": 85,
             "dipl": 70,
             "govt": 20,
             "scty": 70
@@ -210,8 +210,8 @@ ideologies = [
         "name": "Реакционный социализм",
         "stats": {
             "econ": 80,
-            "dipl": 10,
-            "govt": 20,
+            "dipl": 20,
+            "govt": 30,
             "scty": 0
         }
     },
@@ -221,23 +221,23 @@ ideologies = [
             "econ": 80,
             "dipl": 50,
             "govt": 50,
-            "scty": 30
+            "scty": 35
         }
     },
     {
         "name": "Демократический социализм",
         "stats": {
             "econ": 80,
-            "dipl": 90,
+            "dipl": 80,
             "govt": 55,
-            "scty": 60
+            "scty": 50
         }
     },
     {
         "name": "Утопический социализм",
         "stats": {
             "econ": 80,
-            "dipl": 90,
+            "dipl": 60,
             "govt": 50,
             "scty": 40
         }
@@ -264,7 +264,7 @@ ideologies = [
         "name": "Либертарный социализм",
         "stats": {
             "econ": 80,
-            "dipl": 50,
+            "dipl": 80,
             "govt": 80,
             "scty": 80
         }
