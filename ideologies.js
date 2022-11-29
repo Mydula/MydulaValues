@@ -282,7 +282,7 @@ ideologies = [
         "name": "Рикардианский социализм",
         "stats": {
             "econ": 80,
-            "dipl": 90,
+            "dipl": 40,
             "govt": 60,
             "scty": 50
         } 
@@ -290,8 +290,8 @@ ideologies = [
     {
         "name": "Социализм XXI века",
         "stats": {
-            "econ": 90,
-            "dipl": 10,
+            "econ": 85,
+            "dipl": 20,
             "govt": 50,
             "scty": 50
         }
@@ -300,18 +300,18 @@ ideologies = [
         "name": "Гильдейский социализм",
         "stats": {
             "econ": 80,
-            "dipl": 40,
+            "dipl": 30,
             "govt": 80,
-            "scty": 40
+            "scty": 35
         }
     },
     {
         "name": "Национал-большевизм",
         "stats": {
-            "econ": 80,
-            "dipl": 0,
+            "econ": 90,
+            "dipl": 10,
             "govt": 0,
-            "scty": 10
+            "scty": 20
         }
     },
     {
@@ -333,9 +333,18 @@ ideologies = [
         }
     },
     {
+        "name": "Синдикализм",
+        "effect": {
+            "econ": 75,
+            "dipl": 50,
+            "govt": 70,
+            "scty": 50
+        }
+    },
+    {
         "name": "Анархо-синдикализм",
         "stats": {
-            "econ": 70,
+            "econ": 75,
             "dipl": 50,
             "govt": 100,
             "scty": 80
@@ -344,26 +353,26 @@ ideologies = [
     {
         "name": "Национал-синдикализм",
         "stats": {
-            "econ": 70,
-            "dipl": 0,
+            "econ": 75,
+            "dipl": 20,
             "govt": 15,
-            "scty": 0
+            "scty": 20
         }
     },
     {
         "name": "Левый национализм",
         "stats": {
             "econ": 80,
-            "dipl": 10,
+            "dipl": 20,
             "govt": 50,
             "scty": 50
         }
     },
     {
-        "name": "Левый национализм",
+        "name": "Авторитарный левый национализм",
         "stats": {
             "econ": 80,
-            "dipl": 10,
+            "dipl": 20,
             "govt": 20,
             "scty": 50
         }
@@ -381,7 +390,7 @@ ideologies = [
         "name": "Якобинство",
         "stats": {
             "econ": 70,
-            "dipl": 90,
+            "dipl": 60,
             "govt": 20,
             "scty": 100
         }
