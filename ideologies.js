@@ -334,7 +334,7 @@ ideologies = [
     },
     {
         "name": "Синдикализм",
-        "effect": {
+        "stats": {
             "econ": 75,
             "dipl": 50,
             "govt": 70,
