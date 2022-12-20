@@ -434,7 +434,7 @@ ideologies = [
     {
         "name": "Религиозная демократия",
         "stats": {
-            "econ": 70,
+            "econ": 55,
             "dipl": 40,
             "govt": 45,
             "scty": 30
@@ -445,8 +445,8 @@ ideologies = [
         "stats": {
             "econ": 70,
             "dipl": 80,
-            "govt": 55,
-            "scty": 60
+            "govt": 60,
+            "scty": 50
         }
     },
     {
@@ -472,7 +472,7 @@ ideologies = [
         "stats": {
             "econ": 60,
             "dipl": 0,
-            "govt": 20,
+            "govt": 30,
             "scty": 20
         }
     },
@@ -480,7 +480,7 @@ ideologies = [
         "name": "Интегрализм",
         "stats": {
             "econ": 50,
-            "dipl": 10,
+            "dipl": 20,
             "govt": 20,
             "scty": 0
         }
@@ -498,7 +498,7 @@ ideologies = [
         "name": "Национал-прогрессивизм",
         "stats": {
             "econ": 60,
-            "dipl": 20,
+            "dipl": 30,
             "govt": 50,
             "scty": 60
         } 
@@ -569,7 +569,7 @@ ideologies = [
     {
         "name": "Иллюминаты",
         "stats": {
-            "econ": 50,
+            "econ": 40,
             "dipl": 70,
             "govt": 20,
             "scty": 70
