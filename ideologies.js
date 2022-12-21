@@ -597,7 +597,7 @@ ideologies = [
         "name": "Национал-либерализм",
         "stats": {
             "econ": 20,
-            "dipl": 10,
+            "dipl": 20,
             "govt": 60,
             "scty": 50
         }
@@ -608,7 +608,7 @@ ideologies = [
             "econ": 30,
             "dipl": 40,
             "govt": 60,
-            "scty": 50
+            "scty": 70
         }
     },
     {
@@ -617,7 +617,7 @@ ideologies = [
             "econ": 30,
             "dipl": 40,
             "govt": 80,
-            "scty": 50
+            "scty": 70
         }
     },
     {
@@ -679,7 +679,7 @@ ideologies = [
         "stats": {
             "econ": 40,
             "dipl": 50,
-            "govt": 20,
+            "govt": 30,
             "scty": 0
         }
     },
@@ -687,7 +687,7 @@ ideologies = [
         "name": "Неореакция (тёмное просвещение)",
         "stats": {
             "econ": 0,
-            "dipl": 10,
+            "dipl": 20,
             "govt": 20,
             "scty": 0
         }
@@ -696,9 +696,9 @@ ideologies = [
         "name": "Правый популизм",
         "stats": {
             "econ": 20,
-            "dipl": 10,
+            "dipl": 20,
             "govt": 20,
-            "scty": 10
+            "scty": 20
         }
     },
     {
@@ -720,9 +720,9 @@ ideologies = [
         }
     },
     {
-        "name": "Эгоизм",
+        "name": "Анархо-эгоизм",
         "stats": {
-            "econ": 55,
+            "econ": 60,
             "dipl": 50,
             "govt": 100,
             "scty": 40
