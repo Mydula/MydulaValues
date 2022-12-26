@@ -741,7 +741,7 @@ ideologies = [
         "name": "Штрассеризм",
         "stats": {
             "econ": 80,
-            "dipl": 0,
+            "dipl": 5,
             "govt": 15,
             "scty": 10
         }
@@ -768,7 +768,7 @@ ideologies = [
         "name": "Авторитарный национализм",
         "stats": {
             "econ": 50,
-            "dipl": 10,
+            "dipl": 20,
             "govt": 20,
             "scty": 50
         }
@@ -777,7 +777,7 @@ ideologies = [
         "name": "Фашизм",
         "stats": {
             "econ": 60,
-            "dipl": 0,
+            "dipl": 10,
             "govt": 0,
             "scty": 20
         }
@@ -786,7 +786,7 @@ ideologies = [
         "name": "Клерикальный фашизм",
         "stats": {
             "econ": 60,
-            "dipl": 0,
+            "dipl": 10,
             "govt": 0,
             "scty": 10
         }
@@ -804,7 +804,7 @@ ideologies = [
         "name": "Футуризм",
         "stats": {
             "econ": 70,
-            "dipl": 0,
+            "dipl": 10,
             "govt": 0,
             "scty": 90
         }
@@ -840,7 +840,7 @@ ideologies = [
         "name": "Неофашизм",
         "stats": {
             "econ": 55,
-            "dipl": 0,
+            "dipl": 5,
             "govt": 10,
             "scty": 10
         }
@@ -912,7 +912,7 @@ ideologies = [
         "name": "Палеоконсерватизм",
         "stats": {
             "econ": 20,
-            "dipl": 10,
+            "dipl": 20,
             "govt": 50,
             "scty": 10
         }
@@ -941,7 +941,7 @@ ideologies = [
             "econ": 45,
             "dipl": 60,
             "govt": 50,
-            "scty": 60
+            "scty": 50
         }
     },
     {
@@ -984,8 +984,8 @@ ideologies = [
         "name": "Реакционный либерализм",
         "stats": {
             "econ": 20,
-            "dipl": 10,
-            "govt": 60,
+            "dipl": 20,
+            "govt": 45,
             "scty": 0
         }
     },
@@ -1047,7 +1047,7 @@ ideologies = [
         "name": "Палеолибертарианство",
         "stats": {
             "econ": 20,
-            "dipl": 10,
+            "dipl": 20,
             "govt": 80,
             "scty": 10
         }
@@ -1056,7 +1056,7 @@ ideologies = [
         "name": "Национал-либертарианство",
         "stats": {
             "econ": 20,
-            "dipl": 10,
+            "dipl": 20,
             "govt": 80,
             "scty": 20
         }
@@ -1145,10 +1145,10 @@ ideologies = [
     {
         "name": "Розовый капитализм",
         "stats": {
-            "econ": 10,
+            "econ": 0,
             "dipl": 80,
-            "govt": 60,
-            "scty": 90
+            "govt": 80,
+            "scty": 80
         }
     },
     {
@@ -1161,7 +1161,7 @@ ideologies = [
         }
     },
     {
-        "name": "Корпоратократия",
+        "name": "Тимократия",
         "stats": {
             "econ": 0,
             "dipl": 50,
