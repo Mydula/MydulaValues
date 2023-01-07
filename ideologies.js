@@ -1,5 +1,14 @@
 ideologies = [
     {
+        "name": "Коммунизм",
+        "stats": {
+            "econ": 100,
+            "dipl": 50,
+            "govt": 50,
+            "scty": 50
+        }
+    },
+    {
         "name": "Анархо-коммунизм",
         "stats": {
             "econ": 100,
@@ -378,12 +387,21 @@ ideologies = [
         }
     },
     {
+        "name": "Велферизм",
+        "stats": {
+            "econ": 70,
+            "dipl": 50,
+            "govt": 50,
+            "scty": 50
+        }
+    },
+    {
         "name": "Левый популизм",
         "stats": {
             "econ": 70,
             "dipl": 50,
             "govt": 50,
-            "scty": 60
+            "scty": 65
         }
     },
     {
@@ -765,6 +783,15 @@ ideologies = [
         }
     },
     {
+        "name": "Национализм",
+        "stats": {
+            "econ": 50,
+            "dipl": 20,
+            "govt": 50,
+            "scty": 50
+        } 
+    },
+    {
         "name": "Авторитарный национализм",
         "stats": {
             "econ": 50,
@@ -788,7 +815,7 @@ ideologies = [
             "econ": 50,
             "dipl": 20,
             "govt": 40,
-            "scty": 20
+            "scty": 30
         }
     },
     {
@@ -999,6 +1026,15 @@ ideologies = [
         }
     },
     {
+        "name": "Капитализм",
+        "stats": {
+            "econ": 20,
+            "dipl": 50,
+            "govt": 50,
+            "scty": 50
+        }
+    },
+    {
         "name": "Авторитарный капитализм",
         "stats": {
             "econ": 20,
@@ -1149,6 +1185,15 @@ ideologies = [
             "dipl": 50,
             "govt": 50,
             "scty": 30
+        }
+    },
+    {
+        "name": "Ультракапитализм",
+        "stats": {
+            "econ": 0,
+            "dipl": 50,
+            "govt": 50,
+            "scty": 50
         }
     },
     {
