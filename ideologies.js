@@ -779,15 +779,6 @@ ideologies = [
             "econ": 60,
             "dipl": 10,
             "govt": 0,
-            "scty": 20
-        }
-    },
-    {
-        "name": "Клерикальный фашизм",
-        "stats": {
-            "econ": 60,
-            "dipl": 10,
-            "govt": 0,
             "scty": 10
         }
     },
