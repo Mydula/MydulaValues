@@ -398,7 +398,7 @@ ideologies = [
     {
         "name": "Левый популизм",
         "stats": {
-            "econ": 70,
+            "econ": 75,
             "dipl": 50,
             "govt": 50,
             "scty": 65
