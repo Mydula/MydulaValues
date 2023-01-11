@@ -894,9 +894,9 @@ ideologies = [
         "name": "Консерватизм",
         "stats": {
             "econ": 50,
-            "dipl": 40,
+            "dipl": 50,
             "govt": 50,
-            "scty": 20
+            "scty": 25
         }
     },
     {
@@ -905,43 +905,43 @@ ideologies = [
             "econ": 30,
             "dipl": 50,
             "govt": 30,
-            "scty": 10
+            "scty": 20
         }
     },
     {
         "name": "Авторитарный консерватизм",
         "stats": {
             "econ": 50,
-            "dipl": 40,
+            "dipl": 50,
             "govt": 20,
-            "scty": 20
+            "scty": 25
         }
     },
     {
         "name": "Тоталитарный консерватизм",
         "stats": {
             "econ": 50,
-            "dipl": 40,
+            "dipl": 50,
             "govt": 0,
-            "scty": 20
+            "scty": 25
         }
     },
     {
         "name": "Национал-консерватизм",
         "stats": {
-            "econ": 50,
-            "dipl": 10,
-            "govt": 50,
-            "scty": 10
+            "econ": 40,
+            "dipl": 20,
+            "govt": 30,
+            "scty": 25
         }
     },
     {
         "name": "Анархо-консерватизм",
         "stats": {
             "econ": 50,
-            "dipl": 40,
+            "dipl": 50,
             "govt": 100,
-            "scty": 20
+            "scty": 25
         } 
     },
     {
@@ -1002,18 +1002,18 @@ ideologies = [
         "name": "Консервативный либерализм",
         "stats": {
             "econ": 20,
-            "dipl": 40,
+            "dipl": 50,
             "govt": 60,
-            "scty": 20
+            "scty": 25
         }
     },
     {
         "name": "Неоконсерватизм",
         "stats": {
             "econ": 20,
-            "dipl": 60,
+            "dipl": 80,
             "govt": 45,
-            "scty": 20
+            "scty": 25
         }
     },
     {
@@ -1074,9 +1074,9 @@ ideologies = [
         "name": "Либертарианский консерватизм",
         "stats": {
             "econ": 20,
-            "dipl": 40,
+            "dipl": 50,
             "govt": 80,
-            "scty": 20
+            "scty": 25
         }
     },
     {
@@ -1119,7 +1119,7 @@ ideologies = [
         "name": "Неолибертарианство",
         "stats": {
             "econ": 0,
-            "dipl": 60,
+            "dipl": 80,
             "govt": 80,
             "scty": 20
         }
