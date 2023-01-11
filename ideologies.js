@@ -747,6 +747,15 @@ ideologies = [
         }
     },
     {
+        "name": "Патриотизм",
+        "stats": {
+            "econ": 50,
+            "dipl": 30,
+            "govt": 50,
+            "scty": 50
+        }
+    },
+    {
         "name": "Национал-социализм",
         "stats": {
             "econ": 45,
@@ -873,6 +882,24 @@ ideologies = [
         }
     },
     {
+        "name": "Шовинизм",
+        "stats": {
+            "econ": 50,
+            "dipl": 0,
+            "govt": 50,
+            "scty": 20
+        }
+    },
+    {
+        "name": "Ультранационализм",
+        "stats": {
+            "econ": 50,
+            "dipl": 10,
+            "govt": 30,
+            "scty": 10
+        }
+    },
+    {
         "name": "Неофашизм",
         "stats": {
             "econ": 55,
@@ -961,6 +988,33 @@ ideologies = [
             "govt": 20,
             "scty": 10
         } 
+    },
+    {
+        "name": "Глобализм",
+        "stats": {
+            "econ": 50,
+            "dipl": 70,
+            "govt": 50,
+            "scty": 50
+        }
+    },
+    {
+        "name": "Интернационализм",
+        "stats": {
+            "econ": 50,
+            "dipl": 80,
+            "govt": 50,
+            "scty": 50
+        }
+    },
+    {
+        "name": "Космополитизм",
+        "stats": {
+            "econ": 50,
+            "dipl": 100,
+            "govt": 50,
+            "scty": 80
+        }
     },
     {
         "name": "Неолиберализм",
