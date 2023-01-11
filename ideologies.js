@@ -210,9 +210,9 @@ ideologies = [
         "name": "Консервативный социализм",
         "stats": {
             "econ": 80,
-            "dipl": 40,
+            "dipl": 50,
             "govt": 50,
-            "scty": 20
+            "scty": 25
         }
     },
     {
@@ -417,18 +417,18 @@ ideologies = [
         "name": "Патерналистский консерватизм",
         "stats": {
             "econ": 60,
-            "dipl": 40,
+            "dipl": 50,
             "govt": 40,
-            "scty": 20
+            "scty": 25
         }
     },
     {
         "name": "Дистрибутизм",
         "stats": {
             "econ": 70,
-            "dipl": 40,
+            "dipl": 50,
             "govt": 40,
-            "scty": 10
+            "scty": 20
         }
     },
     {
@@ -815,7 +815,7 @@ ideologies = [
             "econ": 50,
             "dipl": 20,
             "govt": 40,
-            "scty": 30
+            "scty": 20
         }
     },
     {
