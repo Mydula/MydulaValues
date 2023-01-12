@@ -1056,7 +1056,7 @@ ideologies = [
         "name": "Неолиберализм",
         "stats": {
             "econ": 25,
-            "dipl": 60,
+            "dipl": 70,
             "govt": 50,
             "scty": 50
         }
@@ -1065,7 +1065,7 @@ ideologies = [
         "name": "Третий путь (социал-неолиберализм)",
         "stats": {
             "econ": 45,
-            "dipl": 60,
+            "dipl": 80,
             "govt": 50,
             "scty": 70
         }
