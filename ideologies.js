@@ -927,6 +927,15 @@ ideologies = [
         }
     },
     {
+        "name": "Alt-Right",
+        "stats": {
+            "econ": 40,
+            "dipl": 0,
+            "govt": 30,
+            "scty": 0
+        }
+    },
+    {
         "name": "Традиционализм",
         "stats": {
             "econ": 50,
