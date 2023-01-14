@@ -1109,10 +1109,10 @@ ideologies = [
     {
         "name": "Неоконсерватизм",
         "stats": {
-            "econ": 20,
-            "dipl": 80,
+            "econ": 25,
+            "dipl": 70,
             "govt": 45,
-            "scty": 25
+            "scty": 30
         }
     },
     {
