@@ -1066,7 +1066,16 @@ ideologies = [
         "stats": {
             "econ": 20,
             "dipl": 70,
-            "govt": 50,
+            "govt": 55,
+            "scty": 50
+        }
+    },
+    {
+        "name": "Неолиберализм",
+        "stats": {
+            "econ": 40,
+            "dipl": 70,
+            "govt": 55,
             "scty": 50
         }
     },
@@ -1075,14 +1084,14 @@ ideologies = [
         "stats": {
             "econ": 45,
             "dipl": 80,
-            "govt": 50,
+            "govt": 60,
             "scty": 50
         }
     },
     {
         "name": "Фордизм",
         "stats": {
-            "econ": 25,
+            "econ": 30,
             "dipl": 70,
             "govt": 0,
             "scty": 80
@@ -1093,7 +1102,7 @@ ideologies = [
         "stats": {
             "econ": 20,
             "dipl": 50,
-            "govt": 60,
+            "govt": 65,
             "scty": 50
         }
     },
@@ -1102,17 +1111,17 @@ ideologies = [
         "stats": {
             "econ": 20,
             "dipl": 50,
-            "govt": 60,
-            "scty": 25
+            "govt": 55,
+            "scty": 20
         }
     },
     {
         "name": "Консервативный неолиберализм",
         "stats": {
-            "econ": 25,
+            "econ": 20,
             "dipl": 70,
-            "govt": 50,
-            "scty": 25
+            "govt": 55,
+            "scty": 20
         }
     },
     {
@@ -1120,7 +1129,7 @@ ideologies = [
         "stats": {
             "econ": 20,
             "dipl": 20,
-            "govt": 45,
+            "govt": 40,
             "scty": 0
         }
     },
@@ -1154,8 +1163,8 @@ ideologies = [
     {
         "name": "Государственный капитализм",
         "stats": {
-            "econ": 45,
-            "dipl": 45,
+            "econ": 40,
+            "dipl": 50,
             "govt": 20,
             "scty": 50
         }
@@ -1175,14 +1184,14 @@ ideologies = [
             "econ": 20,
             "dipl": 50,
             "govt": 80,
-            "scty": 25
+            "scty": 20
         }
     },
     {
         "name": "Сострадательное либертарианство",
         "stats": {
-            "econ": 20,
-            "dipl": 60,
+            "econ": 35,
+            "dipl": 80,
             "govt": 80,
             "scty": 80
         }
@@ -1209,7 +1218,7 @@ ideologies = [
         "name": "Реакционное либертарианство",
         "stats": {
             "econ": 20,
-            "dipl": 40,
+            "dipl": 50,
             "govt": 80,
             "scty": 0
         }
@@ -1217,10 +1226,10 @@ ideologies = [
     {
         "name": "Неолибертарианство",
         "stats": {
-            "econ": 0,
+            "econ": 10,
             "dipl": 80,
             "govt": 80,
-            "scty": 20
+            "scty": 50
         }
     },
     {
@@ -1235,7 +1244,7 @@ ideologies = [
     {
         "name": "Рыночный анархизм",
         "stats": {
-            "econ": 30,
+            "econ": 65,
             "dipl": 50,
             "govt": 100,
             "scty": 80
@@ -1246,8 +1255,8 @@ ideologies = [
         "stats": {
             "econ": 0,
             "dipl": 50,
-            "govt": 90,
-            "scty": 40
+            "govt": 85,
+            "scty": 20
         }
     },
     {
@@ -1262,8 +1271,8 @@ ideologies = [
     {
         "name": "Абсолютный монархизм",
         "stats": {
-            "econ": 40,
-            "dipl": 20,
+            "econ": 35,
+            "dipl": 30,
             "govt": 10,
             "scty": 40
         }
@@ -1271,10 +1280,10 @@ ideologies = [
     {
         "name": "Просвещённый абсолютизм",
         "stats": {
-            "econ": 40,
-            "dipl": 20,
+            "econ": 35,
+            "dipl": 30,
             "govt": 10,
-            "scty": 80
+            "scty": 60
         }
     },
     {
@@ -1283,7 +1292,7 @@ ideologies = [
             "econ": 20,
             "dipl": 50,
             "govt": 50,
-            "scty": 30
+            "scty": 40
         }
     },
     {
@@ -1325,9 +1334,9 @@ ideologies = [
     {
         "name": "Авариционизм",
         "stats": {
-            "econ": 0,
+            "econ": -10,
             "dipl": 50,
-            "govt": 100,
+            "govt": 110,
             "scty": 80
         }
     },
