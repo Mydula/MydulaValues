@@ -929,10 +929,10 @@ ideologies = [
     {
         "name": "Неофашизм",
         "stats": {
-            "econ": 55,
+            "econ": 60,
             "dipl": 5,
-            "govt": 5,
-            "scty": 10
+            "govt": 10,
+            "scty": 20
         }
     },
     {
