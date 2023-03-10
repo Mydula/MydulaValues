@@ -515,7 +515,7 @@ ideologies = [
     {
         "name": "Национал-прогрессивизм",
         "stats": {
-            "econ": 70,
+            "econ": 60,
             "dipl": 25,
             "govt": 35,
             "scty": 60
