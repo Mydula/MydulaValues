@@ -99,6 +99,15 @@ ideologies = [
         }
     },
     {
+        "name": "Неомарксизм",
+        "stats": {
+            "econ": 100,
+            "dipl": 80,
+            "govt": 60,
+            "scty": 100
+        }
+    },
+    {
         "name": "Ленинизм",
         "stats": {
             "econ": 90,
