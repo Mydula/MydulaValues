@@ -731,10 +731,10 @@ ideologies = [
     {
         "name": "Правый популизм",
         "stats": {
-            "econ": 35,
+            "econ": 30,
             "dipl": 20,
-            "govt": 35,
-            "scty": 20
+            "govt": 30,
+            "scty": 10
         }
     },
     {
