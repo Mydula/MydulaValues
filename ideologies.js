@@ -1285,23 +1285,50 @@ ideologies = [
             "govt": 90,
             "scty": 50
         }
-    },    
+    },
+    {
+        "name": "Монархизм",
+        "stats": {
+            "econ": 40,
+            "dipl": 10,
+            "govt": 20,
+            "scty": 10
+        }
+    },
+    {
+        "name": "Феодализм",
+        "stats": {
+            "econ": 25,
+            "dipl": 10,
+            "govt": 20,
+            "scty": 0
+        }
+    },
+    {
+        "name": "Универсальный монархизм",
+        "stats": {
+            "econ": 40,
+            "dipl": 80,
+            "govt": 20,
+            "scty": 10
+        }
+    },
     {
         "name": "Абсолютный монархизм",
         "stats": {
-            "econ": 35,
-            "dipl": 30,
+            "econ": 40,
+            "dipl": 10,
             "govt": 10,
-            "scty": 40
+            "scty": 10
         }
     },
     {
         "name": "Просвещённый абсолютизм",
         "stats": {
-            "econ": 35,
-            "dipl": 30,
+            "econ": 40,
+            "dipl": 10,
             "govt": 10,
-            "scty": 60
+            "scty": 80
         }
     },
     {
