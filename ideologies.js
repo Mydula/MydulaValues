@@ -795,7 +795,7 @@ ideologies = [
         "name": "Штрассеризм",
         "stats": {
             "econ": 80,
-            "dipl": 5,
+            "dipl": 0,
             "govt": 15,
             "scty": 10
         }
@@ -1305,6 +1305,24 @@ ideologies = [
         }
     },
     {
+        "name": "Монархо-социализм",
+        "stats": {
+            "econ": 80,
+            "dipl": 10,
+            "govt": 25,
+            "scty": 10
+        }
+    },
+    {
+        "name": "Монархо-капитализм",
+        "stats": {
+            "econ": 20,
+            "dipl": 10,
+            "govt": 20,
+            "scty": 10
+        }
+    },
+    {
         "name": "Универсальный монархизм",
         "stats": {
             "econ": 40,
@@ -1338,6 +1356,15 @@ ideologies = [
             "dipl": 50,
             "govt": 50,
             "scty": 40
+        }
+    },
+    {
+        "name": "Корпоратократия",
+        "stats": {
+            "econ": 10,
+            "dipl": 50,
+            "govt": 20,
+            "scty": 50
         }
     },
     {
