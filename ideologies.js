@@ -369,6 +369,15 @@ ideologies = [
         }
     },
     {
+        "name": "Тотализм",
+        "stats": {
+            "econ": 80,
+            "dipl": 20,
+            "govt": 5,
+            "scty": 20
+        }
+    },
+    {
         "name": "Синдикализм",
         "stats": {
             "econ": 75,
