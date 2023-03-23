@@ -516,9 +516,9 @@ ideologies = [
         "name": "Религиозная демократия",
         "stats": {
             "econ": 50,
-            "dipl": 50,
-            "govt": 40,
-            "scty": 35
+            "dipl": 60,
+            "govt": 35,
+            "scty": 30
         }
     },
     {
