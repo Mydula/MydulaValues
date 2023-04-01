@@ -972,6 +972,15 @@ ideologies = [
         }
     },
     {
+        "name": "Либеральный консерватизм",
+        "stats": {
+            "econ": 20,
+            "dipl": 50,
+            "govt": 55,
+            "scty": 30
+        }
+    },
+    {
         "name": "Этатизм",
         "stats": {
             "econ": 50,
@@ -1433,10 +1442,46 @@ ideologies = [
     {
         "name": "Неолиберализм",
         "stats": {
-            "econ": 40,
+            "econ": 20,
+            "dipl": 60,
+            "govt": 50,
+            "scty": 20
+        }
+    },
+    {
+        "name": "Неолиберализм",
+        "stats": {
+            "econ": 20,
+            "dipl": 70,
+            "govt": 55,
+            "scty": 80
+        }
+    },
+    {
+        "name": "Неолиберализм",
+        "stats": {
+            "econ": 45,
             "dipl": 70,
             "govt": 55,
             "scty": 50
+        }
+    },
+    {
+        "name": "Неолиберализм",
+        "stats": {
+            "econ": 30,
+            "dipl": 60,
+            "govt": 50,
+            "scty": 20
+        }
+    },
+    {
+        "name": "Неолиберализм",
+        "stats": {
+            "econ": 45,
+            "dipl": 70,
+            "govt": 55,
+            "scty": 80
         }
     },
     {
@@ -1471,15 +1516,6 @@ ideologies = [
         "stats": {
             "econ": 20,
             "dipl": 40,
-            "govt": 55,
-            "scty": 20
-        }
-    },
-    {
-        "name": "Консервативный неолиберализм",
-        "stats": {
-            "econ": 20,
-            "dipl": 65,
             "govt": 55,
             "scty": 20
         }
