@@ -1021,8 +1021,17 @@ ideologies = [
         "stats": {
             "econ": 10,
             "dipl": 20,
-            "govt": 35,
-            "scty": 10
+            "govt": 50,
+            "scty": 5
+        }
+    },
+    {
+        "name": "Неореакция (тёмное просвещение)",
+        "stats": {
+            "econ": 10,
+            "dipl": 20,
+            "govt": 20,
+            "scty": 5
         }
     },
     {
