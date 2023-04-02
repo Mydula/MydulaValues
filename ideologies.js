@@ -864,15 +864,6 @@ ideologies = [
         }
     },
     {
-        "name": "Иллюминаты",
-        "stats": {
-            "econ": 20,
-            "dipl": 70,
-            "govt": 15,
-            "scty": 80
-        }
-    },
-    {
         "name": "Центризм",
         "stats": {
             "econ": 50,
