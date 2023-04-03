@@ -1730,10 +1730,19 @@ ideologies = [
     {
         "name": "Рыночный анархизм",
         "stats": {
-            "econ": 65,
+            "econ": 70,
             "dipl": 50,
             "govt": 100,
             "scty": 80
+        }
+    },
+    {
+        "name": "Панархизм",
+        "stats": {
+            "econ": 20,
+            "dipl": 50,
+            "govt": 95,
+            "scty": 50
         }
     },
     {
