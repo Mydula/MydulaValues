@@ -1,14 +1,5 @@
 ideologies = [
     {
-        "name": "Коммунизм",
-        "stats": {
-            "econ": 100,
-            "dipl": 50,
-            "govt": 50,
-            "scty": 50
-        }
-    },
-    {
         "name": "Анархо-коммунизм",
         "stats": {
             "econ": 100,
@@ -218,7 +209,7 @@ ideologies = [
     {
         "name": "Коммунализм",
         "stats": {
-            "econ": 105,
+            "econ": 110,
             "dipl": 80,
             "govt": 45,
             "scty": 90
@@ -1374,15 +1365,6 @@ ideologies = [
             "dipl": 0,
             "govt": -5,
             "scty": 0
-        }
-    },
-    {
-        "name": "Шовинизм",
-        "stats": {
-            "econ": 50,
-            "dipl": 0,
-            "govt": 50,
-            "scty": 20
         }
     },
     {
