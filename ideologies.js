@@ -324,6 +324,33 @@ ideologies = [
         }
     },
     {
+        "name": "Демократический социализм",
+        "stats": {
+            "econ": 80,
+            "dipl": 80,
+            "govt": 55,
+            "scty": 50
+        }
+    },
+    {
+        "name": "Демократический социализм",
+        "stats": {
+            "econ": 80,
+            "dipl": 50,
+            "govt": 55,
+            "scty": 80
+        }
+    },
+    {
+        "name": "Демократический социализм",
+        "stats": {
+            "econ": 80,
+            "dipl": 80,
+            "govt": 55,
+            "scty": 80
+        }
+    },
+    {
         "name": "Утопический социализм",
         "stats": {
             "econ": 80,
@@ -339,6 +366,33 @@ ideologies = [
             "dipl": 50,
             "govt": 50,
             "scty": 50
+        }
+    },
+    {
+        "name": "Социализм",
+        "stats": {
+            "econ": 80,
+            "dipl": 80,
+            "govt": 50,
+            "scty": 50
+        }
+    },
+    {
+        "name": "Социализм",
+        "stats": {
+            "econ": 80,
+            "dipl": 50,
+            "govt": 50,
+            "scty": 80
+        }
+    },
+    {
+        "name": "Социализм",
+        "stats": {
+            "econ": 80,
+            "dipl": 80,
+            "govt": 50,
+            "scty": 80
         }
     },
     {
@@ -1174,7 +1228,7 @@ ideologies = [
         "stats": {
             "econ": 50,
             "dipl": 30,
-            "govt": 50,
+            "govt": 40,
             "scty": 50
         }
     },
@@ -1219,7 +1273,7 @@ ideologies = [
         "stats": {
             "econ": 50,
             "dipl": 20,
-            "govt": 50,
+            "govt": 30,
             "scty": 50
         } 
     },
