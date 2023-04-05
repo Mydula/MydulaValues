@@ -9,15 +9,6 @@ ideologies = [
         }
     },
     {
-        "name": "Платформизм",
-        "stats": {
-            "econ": 100,
-            "dipl": 40,
-            "govt": 100,
-            "scty": 80
-        } 
-    },
-    {
         "name": "Либертарный марксизм",
         "stats": {
             "econ": 100,
@@ -49,15 +40,6 @@ ideologies = [
         "stats": {
             "econ": 100,
             "dipl": 80,
-            "govt": 20,
-            "scty": 80
-        }
-    },
-    {
-        "name": "Левый коммунизм",
-        "stats": {
-            "econ": 100,
-            "dipl": 80,
             "govt": 25,
             "scty": 80
         }
@@ -74,18 +56,9 @@ ideologies = [
     {
         "name": "Реформистский марксизм",
         "stats": {
-            "econ": 95,
+            "econ": 90,
             "dipl": 50,
             "govt": 60,
-            "scty": 80
-        }
-    },
-    {
-        "name": "Коммунизм рабочих советов",
-        "stats": {
-            "econ": 100,
-            "dipl": 50,
-            "govt": 55,
             "scty": 80
         }
     },
@@ -410,6 +383,15 @@ ideologies = [
             "econ": 80,
             "dipl": 50,
             "govt": 60,
+            "scty": 50
+        }
+    },
+    {
+        "name": "Либеральный социализм",
+        "stats": {
+            "econ": 80,
+            "dipl": 50,
+            "govt": 60,
             "scty": 80
         }
     },
@@ -438,15 +420,6 @@ ideologies = [
             "dipl": 50,
             "govt": 90,
             "scty": 80
-        }
-    },
-    {
-        "name": "Рикардианский социализм",
-        "stats": {
-            "econ": 75,
-            "dipl": 60,
-            "govt": 60,
-            "scty": 40
         }
     },
     {
@@ -582,6 +555,15 @@ ideologies = [
             "dipl": 20,
             "govt": 0,
             "scty": 50
+        }
+    },
+    {
+        "name": "Левый национализм",
+        "stats": {
+            "econ": 80,
+            "dipl": 20,
+            "govt": 0,
+            "scty": 20
         }
     },
     {
@@ -1145,19 +1127,19 @@ ideologies = [
     {
         "name": "Неореакция",
         "stats": {
-            "econ": 10,
+            "econ": 0,
             "dipl": 20,
             "govt": 50,
-            "scty": 5
+            "scty": 0
         }
     },
     {
-        "name": "Неореакция (тёмное просвещение)",
+        "name": "Неореакция",
         "stats": {
-            "econ": 10,
+            "econ": 0,
             "dipl": 20,
             "govt": 20,
-            "scty": 5
+            "scty": 0
         }
     },
     {
