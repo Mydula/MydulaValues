@@ -265,6 +265,15 @@ ideologies = [
         "stats": {
             "econ": 80,
             "dipl": 50,
+            "govt": 30,
+            "scty": 50
+        }
+    },
+    {
+        "name": "Государственный социализм",
+        "stats": {
+            "econ": 80,
+            "dipl": 50,
             "govt": 20,
             "scty": 50
         }
