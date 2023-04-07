@@ -704,7 +704,7 @@ ideologies = [
     {
         "name": "Радикализм",
         "stats": {
-            "econ": 65,
+            "econ": 70,
             "dipl": 50,
             "govt": 70,
             "scty": 80
@@ -1041,6 +1041,15 @@ ideologies = [
             "dipl": 50,
             "govt": 70,
             "scty": 80
+        }
+    },
+    {
+        "name": "Либерализм",
+        "stats": {
+            "econ": 70,
+            "dipl": 50,
+            "govt": 70,
+            "scty": 50
         }
     },
     {
