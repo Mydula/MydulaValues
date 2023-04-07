@@ -1364,6 +1364,15 @@ ideologies = [
             "econ": 60,
             "dipl": 10,
             "govt": 0,
+            "scty": 15
+        }
+    },
+    {
+        "name": "Монархо-фашизм",
+        "stats": {
+            "econ": 60,
+            "dipl": 10,
+            "govt": 0,
             "scty": 10
         }
     },
