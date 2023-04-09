@@ -1757,7 +1757,7 @@ ideologies = [
     {
         "name": "Фордизм",
         "stats": {
-            "econ": 30,
+            "econ": 0,
             "dipl": 70,
             "govt": 0,
             "scty": 80
@@ -1838,7 +1838,7 @@ ideologies = [
     {
         "name": "Государственный либерализм",
         "stats": {
-            "econ": 0,
+            "econ": 20,
             "dipl": 70,
             "govt": 0,
             "scty": 100
