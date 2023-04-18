@@ -1452,7 +1452,7 @@ ideologies = [
         "name": "Ультранационализм",
         "stats": {
             "econ": 50,
-            "dipl": 0,
+            "dipl": 10,
             "govt": 20,
             "scty": 50
         }
@@ -1487,10 +1487,19 @@ ideologies = [
     {
         "name": "Alt-Right",
         "stats": {
-            "econ": 35,
+            "econ": 50,
             "dipl": 0,
-            "govt": 35,
-            "scty": 0
+            "govt": 20,
+            "scty": 20
+        }
+    },
+    {
+        "name": "Alt-Right",
+        "stats": {
+            "econ": 20,
+            "dipl": 0,
+            "govt": 20,
+            "scty": 20
         }
     },
     {
