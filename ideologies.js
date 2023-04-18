@@ -1359,15 +1359,6 @@ ideologies = [
         } 
     },
     {
-        "name": "Национал-популизм",
-        "stats": {
-            "econ": 50,
-            "dipl": 20,
-            "govt": 40,
-            "scty": 20
-        }
-    },
-    {
         "name": "Фашизм",
         "stats": {
             "econ": 60,
