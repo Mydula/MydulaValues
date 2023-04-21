@@ -1296,7 +1296,7 @@ ideologies = [
         }
     },
     {
-        "name": "Национал-социализм",
+        "name": "Нацизм",
         "stats": {
             "econ": 40,
             "dipl": 0,
@@ -1310,7 +1310,7 @@ ideologies = [
             "econ": 80,
             "dipl": 0,
             "govt": 15,
-            "scty": 10
+            "scty": 0
         }
     },
     {
