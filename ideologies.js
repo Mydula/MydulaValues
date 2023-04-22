@@ -1388,7 +1388,7 @@ ideologies = [
     {
         "name": "Эзотерический фашизм",
         "stats": {
-            "econ": 50,
+            "econ": 40,
             "dipl": 0,
             "govt": 0,
             "scty": 0
