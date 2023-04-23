@@ -399,25 +399,7 @@ ideologies = [
         "name": "Социализм",
         "stats": {
             "econ": 80,
-            "dipl": 80,
-            "govt": 50,
-            "scty": 50
-        }
-    },
-    {
-        "name": "Социализм",
-        "stats": {
-            "econ": 80,
             "dipl": 50,
-            "govt": 50,
-            "scty": 80
-        }
-    },
-    {
-        "name": "Социализм",
-        "stats": {
-            "econ": 80,
-            "dipl": 80,
             "govt": 50,
             "scty": 80
         }
