@@ -1832,7 +1832,7 @@ questions = [
             "econ": 5,
             "dipl": 0,
             "govt": 0,
-            "scty": 10
+            "scty": 0
         }
     },
     {
