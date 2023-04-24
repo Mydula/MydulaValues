@@ -941,7 +941,7 @@ questions = [
             "econ": 0,
             "dipl": -10,
             "govt": 0,
-            "scty": 0
+            "scty": -10
         }
     },
     {
