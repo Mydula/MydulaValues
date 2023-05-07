@@ -40,7 +40,7 @@ ideologies = [
         "stats": {
             "econ": 100,
             "dipl": 70,
-            "govt": 25,
+            "govt": 30,
             "scty": 80
         }
     },
@@ -49,7 +49,7 @@ ideologies = [
         "stats": {
             "econ": 100,
             "dipl": 70,
-            "govt": 50,
+            "govt": 45,
             "scty": 100
         }
     },
@@ -228,7 +228,7 @@ ideologies = [
         "name": "Коммунализм",
         "stats": {
             "econ": 105,
-            "dipl": 60,
+            "dipl": 50,
             "govt": 50,
             "scty": 80
         }
@@ -267,15 +267,6 @@ ideologies = [
             "dipl": 80,
             "govt": 0,
             "scty": 80
-        }
-    },
-    {
-        "name": "Государственный социализм",
-        "stats": {
-            "econ": 80,
-            "dipl": 50,
-            "govt": 30,
-            "scty": 50
         }
     },
     {
@@ -544,7 +535,7 @@ ideologies = [
         "stats": {
             "econ": 75,
             "dipl": 50,
-            "govt": 80,
+            "govt": 70,
             "scty": 50
         }
     },
@@ -553,7 +544,7 @@ ideologies = [
         "stats": {
             "econ": 75,
             "dipl": 50,
-            "govt": 80,
+            "govt": 70,
             "scty": 70
         }
     },
@@ -780,60 +771,6 @@ ideologies = [
             "dipl": 70,
             "govt": 55,
             "scty": 80
-        }
-    },
-    {
-        "name": "Социальный авторитаризм",
-        "stats": {
-            "econ": 70,
-            "dipl": 50,
-            "govt": 30,
-            "scty": 50
-        }
-    },
-    {
-        "name": "Социальный авторитаризм",
-        "stats": {
-            "econ": 70,
-            "dipl": 20,
-            "govt": 30,
-            "scty": 50
-        }
-    },
-    {
-        "name": "Социальный авторитаризм",
-        "stats": {
-            "econ": 70,
-            "dipl": 50,
-            "govt": 30,
-            "scty": 20
-        }
-    },
-    {
-        "name": "Социальный авторитаризм",
-        "stats": {
-            "econ": 70,
-            "dipl": 20,
-            "govt": 30,
-            "scty": 20
-        }
-    },
-    {
-        "name": "Социальный авторитаризм",
-        "stats": {
-            "econ": 70,
-            "dipl": 50,
-            "govt": 30,
-            "scty": 70
-        }
-    },
-    {
-        "name": "Социальный авторитаризм",
-        "stats": {
-            "econ": 70,
-            "dipl": 20,
-            "govt": 30,
-            "scty": 70
         }
     },
     {
@@ -1345,7 +1282,7 @@ ideologies = [
         "stats": {
             "econ": 20,
             "dipl": 20,
-            "govt": 50,
+            "govt": 40,
             "scty": 10
         }
     },
@@ -1713,9 +1650,18 @@ ideologies = [
         "name": "Палеоконсерватизм",
         "stats": {
             "econ": 20,
-            "dipl": 20,
+            "dipl": 10,
             "govt": 50,
-            "scty": 20
+            "scty": 10
+        }
+    },
+    {
+        "name": "Палеоконсерватизм",
+        "stats": {
+            "econ": 20,
+            "dipl": 10,
+            "govt": 30,
+            "scty": 10
         }
     },
     {
@@ -2443,7 +2389,7 @@ ideologies = [
         "stats": {
             "econ": 25,
             "dipl": 0,
-            "govt": 20,
+            "govt": 25,
             "scty": 0
         }
     },
