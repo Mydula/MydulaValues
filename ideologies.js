@@ -274,6 +274,15 @@ ideologies = [
         "stats": {
             "econ": 80,
             "dipl": 50,
+            "govt": 30,
+            "scty": 50
+        }
+    },
+    {
+        "name": "Государственный социализм",
+        "stats": {
+            "econ": 80,
+            "dipl": 50,
             "govt": 20,
             "scty": 50
         }
@@ -1485,6 +1494,15 @@ ideologies = [
         }
     },
     {
+        "name": "Футуризм",
+        "stats": {
+            "econ": 60,
+            "dipl": 20,
+            "govt": 10,
+            "scty": 80
+        }
+    },
+    {
         "name": "Неофашизм",
         "stats": {
             "econ": 60,
@@ -2504,10 +2522,10 @@ ideologies = [
     {
         "name": "Авариционизм",
         "stats": {
-            "econ": -10,
+            "econ": -5,
             "dipl": 50,
-            "govt": 110,
-            "scty": 80
+            "govt": 105,
+            "scty": 60
         }
     },
     {
