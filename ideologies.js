@@ -1136,10 +1136,28 @@ ideologies = [
     {
         "name": "Джорджизм",
         "stats": {
-            "econ": 40,
+            "econ": 35,
             "dipl": 50,
             "govt": 70,
             "scty": 50
+        }
+    },
+    {
+        "name": "Джорджизм",
+        "stats": {
+            "econ": 35,
+            "dipl": 50,
+            "govt": 70,
+            "scty": 70
+        }
+    },
+    {
+        "name": "Джорджизм",
+        "stats": {
+            "econ": 35,
+            "dipl": 50,
+            "govt": 70,
+            "scty": 80
         }
     },
     {
@@ -1148,7 +1166,16 @@ ideologies = [
             "econ": 30,
             "dipl": 50,
             "govt": 80,
-            "scty": 70
+            "scty": 60
+        }
+    },
+    {
+        "name": "Геоанархизм",
+        "stats": {
+            "econ": 35,
+            "dipl": 50,
+            "govt": 100,
+            "scty": 60
         }
     },
     {
