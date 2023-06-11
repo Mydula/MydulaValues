@@ -630,6 +630,15 @@ ideologies = [
         }
     },
     {
+        "name": "Патернализм",
+        "stats": {
+            "econ": 60,
+            "dipl": 50,
+            "govt": 30,
+            "scty": 50
+        }
+    },
+    {
         "name": "Левый популизм",
         "stats": {
             "econ": 70,
@@ -1543,16 +1552,7 @@ ideologies = [
         "stats": {
             "econ": 40,
             "dipl": 5,
-            "govt": 0,
-            "scty": 0
-        }
-    },
-    {
-        "name": "Неонацизм",
-        "stats": {
-            "econ": 40,
-            "dipl": 5,
-            "govt": 10,
+            "govt": 15,
             "scty": 0
         }
     },
