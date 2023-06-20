@@ -171,6 +171,24 @@ ideologies = [
         }
     },
     {
+        "name": "Развитой социализм",
+        "stats": {
+            "econ": 90,
+            "dipl": 30,
+            "govt": 20,
+            "scty": 40
+        }
+    },
+    {
+        "name": "Развитой социализм",
+        "stats": {
+            "econ": 90,
+            "dipl": 30,
+            "govt": 20,
+            "scty": 30
+        }
+    },
+    {
         "name": "Национал-коммунизм",
         "stats": {
             "econ": 100,
@@ -311,7 +329,16 @@ ideologies = [
             "econ": 80,
             "dipl": 40,
             "govt": 50,
-            "scty": 20
+            "scty": 40
+        }
+    },
+    {
+        "name": "Консервативный социализм",
+        "stats": {
+            "econ": 80,
+            "dipl": 40,
+            "govt": 50,
+            "scty": 30
         }
     },
     {
@@ -320,7 +347,16 @@ ideologies = [
             "econ": 80,
             "dipl": 20,
             "govt": 50,
-            "scty": 20
+            "scty": 40
+        }
+    },
+    {
+        "name": "Консервативный социализм",
+        "stats": {
+            "econ": 80,
+            "dipl": 20,
+            "govt": 50,
+            "scty": 30
         } 
     },
     {
@@ -329,7 +365,16 @@ ideologies = [
             "econ": 80,
             "dipl": 40,
             "govt": 20,
-            "scty": 20
+            "scty": 40
+        }
+    },
+    {
+        "name": "Консервативный социализм",
+        "stats": {
+            "econ": 80,
+            "dipl": 40,
+            "govt": 20,
+            "scty": 30
         }
     },
     {
@@ -338,7 +383,16 @@ ideologies = [
             "econ": 80,
             "dipl": 20,
             "govt": 20,
-            "scty": 20
+            "scty": 40
+        }
+    },
+    {
+        "name": "Консервативный социализм",
+        "stats": {
+            "econ": 80,
+            "dipl": 20,
+            "govt": 20,
+            "scty": 30
         }
     },
     {
