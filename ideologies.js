@@ -1,5 +1,14 @@
 ideologies = [
     {
+        "name": "Коммунизм",
+        "stats": {
+            "econ": 100,
+            "dipl": 50,
+            "govt": 50,
+            "scty": 100
+        }
+    },
+    {
         "name": "Анархо-коммунизм",
         "stats": {
             "econ": 100,
@@ -416,7 +425,7 @@ ideologies = [
     {
         "name": "Революционный социализм",
         "stats": {
-            "econ": 90,
+            "econ": 80,
             "dipl": 50,
             "govt": 50,
             "scty": 100
@@ -975,15 +984,6 @@ ideologies = [
         "name": "Революционный прогрессивизм",
         "stats": {
             "econ": 50,
-            "dipl": 50,
-            "govt": 50,
-            "scty": 100
-        }
-    },
-    {
-        "name": "Революционный прогрессивизм",
-        "stats": {
-            "econ": 80,
             "dipl": 50,
             "govt": 50,
             "scty": 100
