@@ -184,7 +184,25 @@ ideologies = [
         "stats": {
             "econ": 90,
             "dipl": 30,
+            "govt": 0,
+            "scty": 40
+        }
+    },
+    {
+        "name": "Развитой социализм",
+        "stats": {
+            "econ": 90,
+            "dipl": 30,
             "govt": 20,
+            "scty": 30
+        }
+    },
+    {
+        "name": "Развитой социализм",
+        "stats": {
+            "econ": 90,
+            "dipl": 30,
+            "govt": 0,
             "scty": 30
         }
     },
