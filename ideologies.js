@@ -1155,9 +1155,27 @@ ideologies = [
         "name": "Либерализм",
         "stats": {
             "econ": 50,
+            "dipl": 50,
+            "govt": 60,
+            "scty": 50
+        }
+    },
+    {
+        "name": "Либерализм",
+        "stats": {
+            "econ": 50,
             "dipl": 70,
             "govt": 60,
             "scty": 50
+        }
+    },
+    {
+        "name": "Либерализм",
+        "stats": {
+            "econ": 50,
+            "dipl": 50,
+            "govt": 60,
+            "scty": 70
         }
     },
     {
