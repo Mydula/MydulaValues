@@ -347,7 +347,7 @@ ideologies = [
             "econ": 80,
             "dipl": 40,
             "govt": 50,
-            "scty": 40
+            "scty": 20
         }
     },
     {
@@ -365,7 +365,7 @@ ideologies = [
             "econ": 80,
             "dipl": 20,
             "govt": 50,
-            "scty": 40
+            "scty": 20
         }
     },
     {
@@ -383,7 +383,7 @@ ideologies = [
             "econ": 80,
             "dipl": 40,
             "govt": 20,
-            "scty": 40
+            "scty": 20
         }
     },
     {
@@ -401,7 +401,7 @@ ideologies = [
             "econ": 80,
             "dipl": 20,
             "govt": 20,
-            "scty": 40
+            "scty": 20
         }
     },
     {
