@@ -1532,8 +1532,8 @@ ideologies = [
     {
         "name": "Фашизм",
         "stats": {
-            "econ": 60,
-            "dipl": 10,
+            "econ": 55,
+            "dipl": 5,
             "govt": 0,
             "scty": 20
         }
@@ -1542,7 +1542,7 @@ ideologies = [
         "name": "Клерикальный фашизм",
         "stats": {
             "econ": 60,
-            "dipl": 10,
+            "dipl": 5,
             "govt": 0,
             "scty": 15
         }
@@ -1550,8 +1550,8 @@ ideologies = [
     {
         "name": "Монархо-фашизм",
         "stats": {
-            "econ": 60,
-            "dipl": 10,
+            "econ": 55,
+            "dipl": 0,
             "govt": 0,
             "scty": 10
         }
@@ -1602,9 +1602,9 @@ ideologies = [
         }
     },
     {
-        "name": "Спартанизм",
+        "name": "Бургундская система",
         "stats": {
-            "econ": 20,
+            "econ": 0,
             "dipl": 0,
             "govt": -5,
             "scty": 0
@@ -1631,10 +1631,10 @@ ideologies = [
     {
         "name": "Неофашизм",
         "stats": {
-            "econ": 60,
+            "econ": 55,
             "dipl": 5,
             "govt": 15,
-            "scty": 20
+            "scty": 10
         }
     },
     {
