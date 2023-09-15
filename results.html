@@ -323,9 +323,7 @@ Statcounter" href="https://statcounter.com/" target="_blank"><img
     function createImage(ctx, src, x, y, w, h) {
         img = new Image()
         img.src = src
-        // img.onLoad = function () {
-        //     ctx.drawImage(img, x, y, w, h)
-        // }
+        img.onLoad = function () {
         ctx.drawImage(img, x, y, w, h)
     }
 
