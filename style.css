@@ -228,45 +228,125 @@ div.text-wrapper {
     color: #222222;
     display: inline-block;
 }
-div.equality {
-    background-color: #f44336;
-    text-align: left;
-    border-right-style: solid;
-}
-div.wealth {
-    background-color: #00897b;
-    text-align: right;
-    border-left-style: solid;
-}
-div.liberty {
+div.f {
     background-color: #ffeb3b;
     text-align: left;
     border-right-style: solid;
 }
-div.authority {
+div.f2 {
+    background-color: #f44336;
+    text-align: right;
+    border-left-style: solid;
+}
+div.d {
+    background-color: #00897b;
+    text-align: left;
+    border-right-style: solid;
+}
+div.d2 {
+    background-color: #ff9800;
+    text-align: right;
+    border-left-style: solid;
+}
+div.g {
+    background-color: #3f51b5;
+    text-align: left;
+    border-right-style: solid;
+}
+div.g2 {
+    background-color: #ffeb3b;
+    text-align: right;
+    border-left-style: solid;
+}
+div.n {
+    background-color: #FFE599;
+    text-align: left;
+    border-right-style: solid;
+}
+div.n2 {
+    background-color: #B45F06;
+    text-align: right;
+    border-left-style: solid;
+}
+div.m {
+    background-color: #8bc34a;
+    text-align: left;
+    border-right-style: solid;
+}
+div.m2 {
+    background-color: #ea90ab;
+    text-align: right;
+    border-left-style: solid;
+}
+div.c {
+    background-color: #ea90ab;
+    text-align: left;
+    border-right-style: solid;
+}
+div.c2 {
     background-color: #3f51b5;
     text-align: right;
     border-left-style: solid;
 }
-div.peace {
-    background-color: #03a9f4;
+div.e {
+    background-color: #f44336;
+    text-align: left;
+    border-right-style: solid;
+}
+div.e2 {
+    background-color: #FFD966;
     text-align: right;
     border-left-style: solid;
 }
-div.might {
+div.r {
+    background-color: #A61C00;
+    text-align: left;
+    border-right-style: solid;
+}
+div.r2 {
+    background-color: #00897B;
+    text-align: right;
+    border-left-style: solid;
+}
+div.i {
+    background-color: #9C27B0;
+    text-align: left;
+    border-right-style: solid;
+}
+div.i2 {
+    background-color: #03A9F4;
+    text-align: right;
+    border-left-style: solid;
+}
+div.s {
     background-color: #ff9800;
     text-align: left;
     border-right-style: solid;
 }
-div.progress {
-    background-color: #9c27b0;
+div.s2 {
+    background-color: #03a9f4;
     text-align: right;
     border-left-style: solid;
 }
-div.tradition {
-    background-color: #8bc34a;
+div.p {
+    background-color: #9c27b0;
     text-align: left;
     border-right-style: solid;
+}
+div.p2 {
+    background-color: #8bc34a;
+    text-align: right;
+    border-left-style: solid;
+}
+div.a {
+    background-color: #76A5AF;
+    text-align: left;
+    border-right-style: solid;
+}
+div.a2 {
+    background-color: #F6B26B;
+    text-align: right;
+    border-left-style: solid;
 }
 span.weight-300 {
     font-weight: 300;
