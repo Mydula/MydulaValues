@@ -401,25 +401,48 @@ Statcounter" href="https://statcounter.com/" target="_blank"><img
         ctx.fillText(ideology, 20 * r_r, 140 * r_r)
 
         ctx.textAlign="left"
-        if (equality  > 30) {ctx.fillText(equality + "%", 130 * r_r, 237.5 * r_r)}
-        if (might     > 30) {ctx.fillText(might + "%", 130 * r_r, 357.5 * r_r)}
-        if (liberty   > 30) {ctx.fillText(liberty + "%", 130 * r_r, 477.5 * r_r)}
-        if (tradition > 30) {ctx.fillText(tradition + "%", 130 * r_r, 597.5 * r_r)}
+		if (f  > 30) {ctx.fillText(f + "%", 130 * r_r, 237.5 * r_r)}
+        if (d  > 30) {ctx.fillText(d + "%", 130 * r_r, 357.5 * r_r)}
+		if (g  > 30) {ctx.fillText(g + "%", 130 * r_r, 477.5 * r_r)}
+		if (n  > 30) {ctx.fillText(n + "%", 130 * r_r, 597.5 * r_r)}
+		if (m  > 30) {ctx.fillText(m + "%", 130 * r_r, 717.5 * r_r)}
+		if (c  > 30) {ctx.fillText(c + "%", 130 * r_r, 837.5 * r_r)}
+		if (e  > 30) {ctx.fillText(e + "%", 130 * r_r, 957.5 * r_r)}
+		if (r  > 30) {ctx.fillText(r + "%", 130 * r_r, 1077.5 * r_r)}
+		if (i  > 30) {ctx.fillText(i + "%", 130 * r_r, 1197.5 * r_r)}
+		if (s  > 30) {ctx.fillText(s + "%", 130 * r_r, 1317.5 * r_r)}
+		if (p  > 30) {ctx.fillText(p + "%", 130 * r_r, 1437.5 * r_r)}
+		if (a  > 30) {ctx.fillText(a + "%", 130 * r_r, 1557.5 * r_r)}
         ctx.textAlign="right"
-        if (wealth    > 30) {ctx.fillText(wealth + "%", 670 * r_r, 237.5 * r_r)}
-        if (peace     > 30) {ctx.fillText(peace + "%", 670 * r_r, 357.5 * r_r)}
-        if (authority > 30) {ctx.fillText(authority + "%", 670 * r_r, 477.5 * r_r)}
-        if (progress  > 30) {ctx.fillText(progress + "%", 670 * r_r, 597.5 * r_r)}
+        if (f2 > 30) {ctx.fillText(f2 + "%", 670 * r_r, 237.5 * r_r)}
+		if (d2 > 30) {ctx.fillText(d2 + "%", 670 * r_r, 357.5 * r_r)}
+		if (g2 > 30) {ctx.fillText(g2 + "%", 670 * r_r, 477.5 * r_r)}
+		if (n2 > 30) {ctx.fillText(n2 + "%", 670 * r_r, 597.5 * r_r)}
+		if (m2 > 30) {ctx.fillText(m2 + "%", 670 * r_r, 717.5 * r_r)}
+		if (c2 > 30) {ctx.fillText(c2 + "%", 670 * r_r, 837.5 * r_r)}
+		if (e2 > 30) {ctx.fillText(e2 + "%", 670 * r_r, 957.5 * r_r)}
+		if (r2 > 30) {ctx.fillText(r2 + "%", 670 * r_r, 1077.5 * r_r)}
+		if (i2 > 30) {ctx.fillText(i2 + "%", 670 * r_r, 1197.5 * r_r)}
+		if (s2 > 30) {ctx.fillText(s2 + "%", 670 * r_r, 1317.5 * r_r)}
+		if (p2 > 30) {ctx.fillText(p2 + "%", 670 * r_r, 1437.5 * r_r)}
+		if (a2 > 30) {ctx.fillText(a2 + "%", 670 * r_r, 1557.5 * r_r)}
 
         ctx.font="300 " + 24 * r_r + "px Montserrat"
         ctx.fillText("https://mydula.github.io/MydulaValues", 780 * r_r, 30 * r_r)
-        //ctx.fillText(version, 780, 120)
         ctx.font="400 " + 24 * r_r + "px Montserrat"
         ctx.textAlign="center"
-        ctx.fillText("Экономическая ось: " + document.getElementById("economic-label").innerHTML, 400 * r_r, 175 * r_r)
-        ctx.fillText("Дипломатическая ось: " + document.getElementById("diplomatic-label").innerHTML, 400 * r_r, 295 * r_r)
-        ctx.fillText("Гражданская ось: " + document.getElementById("state-label").innerHTML, 400 * r_r, 415 * r_r)
-        ctx.fillText("Социальная ось: " + document.getElementById("society-label").innerHTML, 400 * r_r, 535 * r_r)
+        ctx.fillText("Ось структуры: " + document.getElementById("f-label").innerHTML, 400 * r_r, 175 * r_r)
+        ctx.fillText("Ось представительства: " + document.getElementById("d-label").innerHTML, 400 * r_r, 295 * r_r)
+        ctx.fillText("Ось государства: " + document.getElementById("g-label").innerHTML, 400 * r_r, 415 * r_r)
+        ctx.fillText("Ось взаимодействия: " + document.getElementById("n-label").innerHTML, 400 * r_r, 535 * r_r)
+		ctx.fillText("Ось дипломатии: " + document.getElementById("m-label").innerHTML, 400 * r_r, 655 * r_r)
+		ctx.fillText("Ось иммиграции: " + document.getElementById("c-label").innerHTML, 400 * r_r, 775 * r_r)
+		ctx.fillText("Ось экономики: " + document.getElementById("e-label").innerHTML, 400 * r_r, 895 * r_r)
+		ctx.fillText("Ось регулирования: " + document.getElementById("r-label").innerHTML, 400 * r_r, 1015 * r_r)
+		ctx.fillText("Ось глобальности: " + document.getElementById("i-label").innerHTML, 400 * r_r, 1135 * r_r)
+		ctx.fillText("Ось мировоззрения: " + document.getElementById("s-label").innerHTML, 400 * r_r, 1255 * r_r)
+		ctx.fillText("Ось культуры: " + document.getElementById("p-label").innerHTML, 400 * r_r, 1375 * r_r)
+		ctx.fillText("Ось технологии: " +document.getElementById("a-label").innerHTML, 400 * r_r, 1495 * r_r)
 
         document.getElementById("banner").src = c.toDataURL();
     }
