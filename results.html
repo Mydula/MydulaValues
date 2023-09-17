@@ -346,22 +346,54 @@ Statcounter" href="https://statcounter.com/" target="_blank"><img
             createImage(ctx, "value_images/tradition.png", 20 * r_r, 530 * r_r, 100 * r_r, 100 * r_r)
             createImage(ctx, "value_images/progress.png", 680 * r_r, 530 * r_r, 100 * r_r, 100 * r_r)
         } else {
-            img = document.getElementById("img-equality")
+            img = document.getElementById("img-f")
             ctx.drawImage(img, 20 * r_r, 170 * r_r, 100 * r_r, 100 * r_r);
-            img = document.getElementById("img-wealth")
+            img = document.getElementById("img-f2")
             ctx.drawImage(img, 680 * r_r, 170 * r_r, 100 * r_r, 100 * r_r)
-            img = document.getElementById("img-might")
+            img = document.getElementById("img-d")
             ctx.drawImage(img, 20 * r_r, 290 * r_r, 100 * r_r, 100 * r_r)
-            img = document.getElementById("img-peace")
+            img = document.getElementById("img-d2")
             ctx.drawImage(img, 680 * r_r, 290 * r_r, 100 * r_r, 100 * r_r)
-            img = document.getElementById("img-liberty")
+            img = document.getElementById("img-g")
             ctx.drawImage(img, 20 * r_r, 410 * r_r, 100 * r_r, 100 * r_r)
-            img = document.getElementById("img-authority")
+            img = document.getElementById("img-g2")
             ctx.drawImage(img, 680 * r_r, 410 * r_r, 100 * r_r, 100 * r_r)
-            img = document.getElementById("img-tradition")
+            img = document.getElementById("img-n")
             ctx.drawImage(img, 20 * r_r, 530 * r_r, 100 * r_r, 100 * r_r)
-            img = document.getElementById("img-progress")
+            img = document.getElementById("img-n2")
             ctx.drawImage(img, 680 * r_r, 530 * r_r, 100 * r_r, 100 * r_r)
+            img = document.getElementById("img-m")
+            ctx.drawImage(img, 20 * r_r, 650 * r_r, 100 * r_r, 100 * r_r)
+            img = document.getElementById("img-m2")
+            ctx.drawImage(img, 680 * r_r, 650 * r_r, 100 * r_r, 100 * r_r)
+	        img = document.getElementById("img-c")
+            ctx.drawImage(img, 20 * r_r, 770 * r_r, 100 * r_r, 100 * r_r)
+            img = document.getElementById("img-c2")
+            ctx.drawImage(img, 680 * r_r, 770 * r_r, 100 * r_r, 100 * r_r)
+		    img = document.getElementById("img-e")
+            ctx.drawImage(img, 20 * r_r, 890 * r_r, 100 * r_r, 100 * r_r)
+            img = document.getElementById("img-e2")
+            ctx.drawImage(img, 680 * r_r, 890 * r_r, 100 * r_r, 100 * r_r)
+		    img = document.getElementById("img-r")
+            ctx.drawImage(img, 20 * r_r, 1010 * r_r, 100 * r_r, 100 * r_r)
+            img = document.getElementById("img-r2")
+            ctx.drawImage(img, 680 * r_r, 1010 * r_r, 100 * r_r, 100 * r_r)
+		    img = document.getElementById("img-i")
+            ctx.drawImage(img, 20 * r_r, 1130 * r_r, 100 * r_r, 100 * r_r)
+            img = document.getElementById("img-i2")
+            ctx.drawImage(img, 680 * r_r, 1130 * r_r, 100 * r_r, 100 * r_r)
+		    img = document.getElementById("img-s")
+		    ctx.drawImage(img, 20 * r_r, 1250 * r_r, 100 * r_r, 100 * r_r)
+		    img = document.getElementById("img-s2")
+		    ctx.drawImage(img, 680 * r_r, 1250 * r_r, 100 * r_r, 100 * r_r)
+		    img = document.getElementById("img-p")
+		    ctx.drawImage(img, 20 * r_r, 1370 * r_r, 100 * r_r, 100 * r_r)
+		    img = document.getElementById("img-p2")
+		    ctx.drawImage(img, 680 * r_r, 1370 * r_r, 100 * r_r, 100 * r_r)
+		    img = document.getElementById("img-a")
+		    ctx.drawImage(img, 20 * r_r, 1490 * r_r, 100 * r_r, 100 * r_r)
+		    img = document.getElementById("img-a2")
+		    ctx.drawImage(img, 680 * r_r, 1490 * r_r, 100 * r_r, 100 * r_r)
         }
 
 		ctx.fillStyle="#222222"
@@ -377,22 +409,54 @@ Statcounter" href="https://statcounter.com/" target="_blank"><img
 	    ctx.fillRect(120 * r_r, 1260 * r_r, 560 * r_r, 80 * r_r)
 	    ctx.fillRect(120 * r_r, 1380 * r_r, 560 * r_r, 80 * r_r)
 	    ctx.fillRect(120 * r_r, 1500 * r_r, 560 * r_r, 80 * r_r)
-        ctx.fillStyle = "#f44336"
-        ctx.fillRect(120 * r_r, 184 * r_r, 5.6 * r_r * equality - 2, 72 * r_r)
-        ctx.fillStyle = "#00897b"
-        ctx.fillRect(682 * r_r - 5.6 * wealth * r_r, 184 * r_r, 5.6 * wealth  * r_r - 2, 72 * r_r)
-        ctx.fillStyle = "#ff9800"
-        ctx.fillRect(120 * r_r, 304 * r_r, 5.6 * r_r * might - 2, 72 * r_r)
-        ctx.fillStyle = "#03a9f4"
-        ctx.fillRect(682 * r_r - 5.6 * r_r * peace, 304 * r_r, 5.6 * r_r * peace - 2, 72 * r_r)
-        ctx.fillStyle = "#ffeb3b"
-        ctx.fillRect(120 * r_r, 424 * r_r, 5.6 * r_r * liberty - 2, 72 * r_r)
-        ctx.fillStyle = "#3f51b5"
-        ctx.fillRect(682 * r_r - 5.6 * r_r * authority, 424 * r_r, 5.6 * r_r * authority - 2, 72 * r_r)
-        ctx.fillStyle = "#8bc34a"
-        ctx.fillRect(120 * r_r, 544 * r_r, 5.6 * r_r * tradition - 2, 72 * r_r)
-        ctx.fillStyle = "#9c27b0"
-        ctx.fillRect(682 * r_r - 5.6 * r_r * progress, 544 * r_r, 5.6 * r_r * progress - 2, 72 * r_r)
+        ctx.fillStyle="#FFEB3B"
+        ctx.fillRect(120 * r_r, 184 * r_r, 5.6 * r_r * f - 2, 72 * r_r)
+        ctx.fillStyle="#F44336"
+        ctx.fillRect(682 * r_r - 5.6 * f2 * r_r, 184 * r_r, 5.6 * f2  * r_r - 2, 72 * r_r)
+        ctx.fillStyle="#00897B"
+        ctx.fillRect(120 * r_r, 304 * r_r, 5.6 * r_r * d - 2, 72 * r_r)
+        ctx.fillStyle="#FF9800"
+        ctx.fillRect(682 * r_r - 5.6 * r_r * d2, 304 * r_r, 5.6 * r_r * d2 - 2, 72 * r_r)
+        ctx.fillStyle="#3F51B5"
+        ctx.fillRect(120 * r_r, 424 * r_r, 5.6 * r_r * g - 2, 72 * r_r)
+        ctx.fillStyle="#FFEB3B"
+        ctx.fillRect(682 * r_r - 5.6 * r_r * g2, 424 * r_r, 5.6 * r_r * g2 - 2, 72 * r_r)
+        ctx.fillStyle="#FFE599"
+        ctx.fillRect(120 * r_r, 544 * r_r, 5.6 * r_r * n - 2, 72 * r_r)
+        ctx.fillStyle="#B45F06"
+        ctx.fillRect(682 * r_r - 5.6 * r_r * n2, 544 * r_r, 5.6 * r_r * n2 - 2, 72 * r_r)
+		ctx.fillStyle="#8BC34A"
+		ctx.fillRect(120 * r_r, 664 * r_r, 5.6 * r_r * m - 2, 72 * r_r)
+        ctx.fillStyle="#EA90AB"
+        ctx.fillRect(682 * r_r - 5.6 * r_r * m2, 664 * r_r, 5.6 * r_r * m2 - 2, 72 * r_r)
+		ctx.fillStyle="#EA90AB"
+		ctx.fillRect(120 * r_r, 784 * r_r, 5.6 * r_r * c - 2, 72 * r_r)
+		ctx.fillStyle="#3F51B5"
+		ctx.fillRect(682 * r_r - 5.6 * r_r * c2, 784 * r_r, 5.6 * r_r * c2 - 2, 72 * r_r)
+		ctx.fillStyle="#F44336"
+		ctx.fillRect(120 * r_r, 904 * r_r, 5.6 * r_r * e - 2, 72 * r_r)
+		ctx.fillStyle="#FFD966"
+		ctx.fillRect(682 * r_r - 5.6 * r_r * e2, 904 * r_r, 5.6 * r_r * e2 - 2, 72 * r_r)
+		ctx.fillStyle="#A61C00"
+		ctx.fillRect(120 * r_r, 1024 * r_r, 5.6 * r_r * r - 2, 72 * r_r)
+		ctx.fillStyle="#00897B"
+		ctx.fillRect(682 * r_r - 5.6 * r_r * r2, 1024 * r_r, 5.6 * r_r * r2 - 2, 72 * r_r)
+		ctx.fillStyle="#9C27B0"
+		ctx.fillRect(120 * r_r, 1144 * r_r, 5.6 * r_r * i - 2, 72 * r_r)
+		ctx.fillStyle="#03A9F4"
+		ctx.fillRect(682 * r_r - 5.6 * r_r * i2, 1144 * r_r, 5.6 * r_r * i2 - 2, 72 * r_r)
+		ctx.fillStyle="#FF9800"
+		ctx.fillRect(120 * r_r, 1264 * r_r, 5.6 * r_r * s - 2, 72 * r_r)
+		ctx.fillStyle="#03A9F4"
+		ctx.fillRect(682 * r_r - 5.6 * r_r * s2, 1264 * r_r, 5.6 * r_r * s2 - 2, 72 * r_r)
+		ctx.fillStyle="#9C27B0"
+		ctx.fillRect(120 * r_r, 1384 * r_r, 5.6 * r_r * p - 2, 72 * r_r)
+		ctx.fillStyle="#8BC34A"
+		ctx.fillRect(682 * r_r - 5.6 * r_r * p2, 1384 * r_r, 5.6 * r_r * p2 - 2, 72 * r_r)
+		ctx.fillStyle="#76A5AF"
+		ctx.fillRect(120 * r_r, 1504 * r_r, 5.6 * r_r * a - 2, 72 * r_r)
+		ctx.fillStyle="#F6B26B"
+		ctx.fillRect(682 * r_r - 5.6 * r_r * a2, 1504 * r_r, 5.6 * r_r * a2 - 2, 72 * r_r)
         ctx.fillStyle = "#222222"
         ctx.font="550 " + 40 * r_r + "px Montserrat"
         ctx.textAlign="left"
