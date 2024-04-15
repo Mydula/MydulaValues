@@ -2774,7 +2774,7 @@ ideologies = [
     {
         "name": "Корпоратократия",
         "stats": {
-            "econ": 10,
+            "econ": 0,
             "dipl": 50,
             "govt": 30,
             "scty": 50
@@ -2804,15 +2804,6 @@ ideologies = [
             "econ": 0,
             "dipl": 50,
             "govt": 80,
-            "scty": 50
-        }
-    },
-    {
-        "name": "Тимократия",
-        "stats": {
-            "econ": 0,
-            "dipl": 50,
-            "govt": 20,
             "scty": 50
         }
     },
