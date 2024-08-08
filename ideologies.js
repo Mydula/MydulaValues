@@ -1722,17 +1722,17 @@ ideologies = [
         "name": "Национал-капитализм",
         "stats": {
             "econ": 20,
-            "dipl": 20,
-            "govt": 10,
-            "scty": 50
+            "dipl": 10,
+            "govt": 20,
+            "scty": 20
         }
     },
     {
         "name": "Национал-капитализм",
         "stats": {
             "econ": 20,
-            "dipl": 20,
-            "govt": 10,
+            "dipl": 10,
+            "govt": 0,
             "scty": 20
         }
     },
